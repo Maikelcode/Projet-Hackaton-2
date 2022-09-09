@@ -1,0 +1,748 @@
+place_id,review_type,1st_topic,2nd_topic,3rd_topic,name,region
+ChIJ-21zmCEOsRIRUDHbDhKNBKk,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier de béziers service des urgences,Occitanie
+ChIJ-21zmCEOsRIRUDHbDhKNBKk,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de béziers service des urgences,Occitanie
+ChIJ-5-XIckCAUgR6gNzz6psTPw,negatif,examen et consultation,attente,personnel désagréable,centre hospitalier de saintonge,Nouvelle-Aquitaine
+ChIJ-5-XIckCAUgR6gNzz6psTPw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saintonge,Nouvelle-Aquitaine
+ChIJ-5sjkWoarxIRVzRTvd3PlkE,negatif,mauvaise expérience,examen et consultation,prise en charge d'urgence 2,centre hospitalier du val d'ariège urgences,Occitanie
+ChIJ-6tpSn6T-UcROJU9Jd6tF00,negatif,prise en charge d'urgence 1,examen et consultation,personnel agréable et à l'écoute,centre hospitalier aubusson - site le mont,Nouvelle-Aquitaine
+ChIJ-6tpSn6T-UcROJU9Jd6tF00,positif,professionnalisme,personnel agréable et à l'écoute,attente,centre hospitalier aubusson - site le mont,Nouvelle-Aquitaine
+ChIJ-TmzZuNSAUgR1b0vhrRhJK0,negatif,prise en charge d'urgence 1,mauvaise expérience,maternité,hôpital marius lacroix,Nouvelle-Aquitaine
+ChIJ-TmzZuNSAUgR1b0vhrRhJK0,positif,personnel agréable et à l'écoute,locaux et accès,attente,hôpital marius lacroix,Nouvelle-Aquitaine
+ChIJ-WB_hdYg1xIR-xR4gDYGB_w,negatif,prise en charge d'urgence 2,examen et consultation,locaux et accès,clinique du cap,Corse
+ChIJ-agK9nwy_kcRMpwuH0-iXl8,negatif,examen et consultation,professionnalisme,prise en charge d'urgence 1,hôpital de jour pédopsychiatrie patipata (antenne du centre hospitalier camille claudel),Nouvelle-Aquitaine
+ChIJ-eQN8Ve_yRIRAYYnKUC7WtY,negatif,mauvaise expérience,attente,locaux et accès,hôpitaux universitaires de marseille - ap-hm,Provence-Alpes-Côte d'Azur
+ChIJ-eQN8Ve_yRIRAYYnKUC7WtY,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 1,hôpitaux universitaires de marseille - ap-hm,Provence-Alpes-Côte d'Azur
+ChIJ-fCWBwIc90cRt52oYK_sQto,negatif,attente,examen et consultation,mauvaise expérience,chu clermont-fd site estaing,Auvergne-Rhône-Alpes
+ChIJ-fCWBwIc90cRt52oYK_sQto,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,chu clermont-fd site estaing,Auvergne-Rhône-Alpes
+ChIJ-x0yX5gt_kcRz9tbnV7qPJg,negatif,prise en charge d'urgence 2,prise en charge d'urgence 1,examen et consultation,centre hospitalier camille claudel,Nouvelle-Aquitaine
+ChIJ-x0yX5gt_kcRz9tbnV7qPJg,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,examen et consultation,centre hospitalier camille claudel,Nouvelle-Aquitaine
+ChIJ04VSWevV_EcREK8gRSD2yFg,negatif,attente,personnel désagréable,examen et consultation,chru hôpitaux de tours,Centre-Val de Loire
+ChIJ04VSWevV_EcREK8gRSD2yFg,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,chru hôpitaux de tours,Centre-Val de Loire
+ChIJ06bynH7C9EcRIR7KR0X3JD4,negatif,attente,mauvaise expérience,personnel désagréable,groupe hospitalier les portes du sud,Auvergne-Rhône-Alpes
+ChIJ06bynH7C9EcRIR7KR0X3JD4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,groupe hospitalier les portes du sud,Auvergne-Rhône-Alpes
+ChIJ0RNXzBcsrhIRkvg9K7VTVhg,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,centre hospitalier de carcassonne - camsp,Occitanie
+ChIJ0_TSR4ar9UcRrTGj6FJa4J0,negatif,mauvaise expérience,attente,examen et consultation,chu nord saint-étienne,Auvergne-Rhône-Alpes
+ChIJ0_TSR4ar9UcRrTGj6FJa4J0,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,chu nord saint-étienne,Auvergne-Rhône-Alpes
+ChIJ0ckTJnu7rhIRlWXLRRimxZE,negatif,attente,personnel désagréable,personnel agréable et à l'écoute,hôtel-dieu saint-jacques,Occitanie
+ChIJ0ckTJnu7rhIRlWXLRRimxZE,positif,locaux et accès,professionnalisme,personnel agréable et à l'écoute,hôtel-dieu saint-jacques,Occitanie
+ChIJ1U2fErqeVA0RvoPdMj3sllE,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier d'arcachon,Nouvelle-Aquitaine
+ChIJ1U2fErqeVA0RvoPdMj3sllE,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier d'arcachon,Nouvelle-Aquitaine
+ChIJ1UCV-BxLshIRzUx5vB9PNSU,negatif,examen et consultation,mauvaise expérience,professionnalisme,centre hospitalier de millau,Occitanie
+ChIJ1UCV-BxLshIRzUx5vB9PNSU,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,maternité,centre hospitalier de millau,Occitanie
+ChIJ1d3smcUOAEgRm5kSrTpGiRw,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier de boscamnant,Nouvelle-Aquitaine
+ChIJ1d3smcUOAEgRm5kSrTpGiRw,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,centre hospitalier de boscamnant,Nouvelle-Aquitaine
+ChIJ1f3uCcd9shIRfQYwfjlHsuw,negatif,prise en charge d'urgence 2,attente,locaux et accès,centre hospitalier les peyrières,Occitanie
+ChIJ1wdnHC5JVQ0R9D3BtoQrUks,negatif,prise en charge d'urgence 1,mauvaise expérience,prise en charge d'urgence 2,centre hospitalier de garderose,Nouvelle-Aquitaine
+ChIJ1xu69n67FkgRpJD11Een94s,negatif,personnel désagréable,examen et consultation,prise en charge d'urgence 1,hôpital de bohars,Bretagne
+ChIJ1xu69n67FkgRpJD11Een94s,positif,prise en charge d'urgence 2,professionnalisme,examen et consultation,hôpital de bohars,Bretagne
+ChIJ20M5q3HZ-kcRtKURyhsM1Lg,negatif,attente,examen et consultation,maternité,centre hospitalier de vierzon,Centre-Val de Loire
+ChIJ20M5q3HZ-kcRtKURyhsM1Lg,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier de vierzon,Centre-Val de Loire
+ChIJ22LuTNybVA0RO0DXVklyXSo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,locaux et accès,centre hospitalier d'arcachon service des urgences,Nouvelle-Aquitaine
+ChIJ2TgsRJxarhIRGb_MI3QsCXE,negatif,attente,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier jean-pierre cassabel,Occitanie
+ChIJ2TgsRJxarhIRGb_MI3QsCXE,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier jean-pierre cassabel,Occitanie
+ChIJ2YasZDGdqRIRvwIRFFkhCA8,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier d'auch,Occitanie
+ChIJ2YasZDGdqRIRvwIRFFkhCA8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'auch,Occitanie
+ChIJ2yKWGsErEkgRhqZVqwzi-Mw,negatif,examen et consultation,attente,personnel désagréable,centre hospitalier lannion-trestel,Bretagne
+ChIJ2yKWGsErEkgRhqZVqwzi-Mw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier lannion-trestel,Bretagne
+ChIJ30A4TBwk1xIR4238-GRJ94g,negatif,professionnalisme,mauvaise expérience,personnel désagréable,brasserie de l'hôpital,Corse
+ChIJ30A4TBwk1xIR4238-GRJ94g,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,brasserie de l'hôpital,Corse
+ChIJ31faIotR80cRaupj9pPao18,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de bourg-en-bresse / fleyriat,Auvergne-Rhône-Alpes
+ChIJ31faIotR80cRaupj9pPao18,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de bourg-en-bresse / fleyriat,Auvergne-Rhône-Alpes
+ChIJ34zFHLrAD0gRRjmmswZRWKs,positif,professionnalisme,personnel agréable et à l'écoute,mauvaise expérience,ehpad de malestroit,Bretagne
+ChIJ39SVWaZF8EcR9ueyJkQpVDA,negatif,examen et consultation,attente,mauvaise expérience,hôpital pierre-beregovoy,Bourgogne-Franche-Comté
+ChIJ39SVWaZF8EcR9ueyJkQpVDA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital pierre-beregovoy,Bourgogne-Franche-Comté
+ChIJ3R4joMwvDkgR1JCknlOs_lQ,negatif,prise en charge d'urgence 2,mauvaise expérience,examen et consultation,centre hospitalier du centre bretagne (chcb),Bretagne
+ChIJ3R4joMwvDkgR1JCknlOs_lQ,positif,personnel agréable et à l'écoute,examen et consultation,professionnalisme,centre hospitalier du centre bretagne (chcb),Bretagne
+ChIJ3RVa1gUdDkgRvxCNPJ1tizM,negatif,attente,examen et consultation,mauvaise expérience,hôpital de la cavale blanche,Bretagne
+ChIJ3RVa1gUdDkgRvxCNPJ1tizM,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital de la cavale blanche,Bretagne
+ChIJ3VoDnWIk1xIRbC-AVBFgOeE,negatif,prise en charge d'urgence 2,personnel désagréable,locaux et accès,hospitalisation à domicile de corse,Corse
+ChIJ3VoDnWIk1xIRbC-AVBFgOeE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hospitalisation à domicile de corse,Corse
+ChIJ3cnKCdUWrRIRFuIZjiuBec4,negatif,mauvaise expérience,attente,personnel désagréable,centre hospitalier de figeac,Occitanie
+ChIJ3cnKCdUWrRIRFuIZjiuBec4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de figeac,Occitanie
+ChIJ4T_h6ej65UcR_mOmRYePBjI,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de melun,Île-de-France
+ChIJ4T_h6ej65UcR_mOmRYePBjI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de melun,Île-de-France
+ChIJ4_GvnRcWyhIR55LZMG3bsAI,negatif,personnel désagréable,prise en charge d'urgence 2,mauvaise expérience,"centre hospitalier du pays d'apt, services d'urgences",Provence-Alpes-Côte d'Azur
+ChIJ4_GvnRcWyhIR55LZMG3bsAI,positif,personnel agréable et à l'écoute,examen et consultation,maternité,"centre hospitalier du pays d'apt, services d'urgences",Provence-Alpes-Côte d'Azur
+ChIJ4xJ5yE7BFkgRgneBbzk4QiM,negatif,professionnalisme,mauvaise expérience,attente,hôpital de la presqu'île de crozon,Bretagne
+ChIJ4xJ5yE7BFkgRgneBbzk4QiM,positif,attente,prise en charge d'urgence 1,personnel agréable et à l'écoute,hôpital de la presqu'île de crozon,Bretagne
+ChIJ52TkG5OrFkgRihwKVHOsXTk,negatif,mauvaise expérience,attente,personnel désagréable,centre de jour ty guen,Bretagne
+ChIJ5YIhowjeDkgRKIhB1luQrUg,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier privé saint-grégoire,Bretagne
+ChIJ5YIhowjeDkgRKIhB1luQrUg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier privé saint-grégoire,Bretagne
+ChIJ5ab3ZDJB9kcRQmgpOlilRHM,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier de brioude,Auvergne-Rhône-Alpes
+ChIJ5ab3ZDJB9kcRQmgpOlilRHM,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de brioude,Auvergne-Rhône-Alpes
+ChIJ5bFAAGAHBEgR0CDPWoDiUig,negatif,prise en charge d'urgence 1,mauvaise expérience,professionnalisme,hôpital saint-honoré - ile de ré - groupe hospitalier de la rochelle-ré-aunis,Nouvelle-Aquitaine
+ChIJ5bFAAGAHBEgR0CDPWoDiUig,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,attente,hôpital saint-honoré - ile de ré - groupe hospitalier de la rochelle-ré-aunis,Nouvelle-Aquitaine
+ChIJ5dfGBlPnDkgRbJbJNx8lZtk,positif,personnel agréable et à l'écoute,prise en charge d'urgence 1,attente,diwall (centre médico-psychologique),Bretagne
+ChIJ5fiAB_1_5EcR53Mx77ZOSa0,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier,Centre-Val de Loire
+ChIJ5fiAB_1_5EcR53Mx77ZOSa0,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier,Centre-Val de Loire
+ChIJ5flzHjPID0gRDgM3Kz8aQKc,negatif,attente,prise en charge d'urgence 2,examen et consultation,centre hospitalier alphonse guérin,Bretagne
+ChIJ5flzHjPID0gRDgM3Kz8aQKc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier alphonse guérin,Bretagne
+ChIJ5w9i5_myqxIRHbJT7ORT-Xo,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier agen-nérac (site d’agen),Nouvelle-Aquitaine
+ChIJ5w9i5_myqxIRHbJT7ORT-Xo,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,centre hospitalier agen-nérac (site d’agen),Nouvelle-Aquitaine
+ChIJ5yNAqXR-shIR9r649n8aCLI,negatif,mauvaise expérience,attente,prise en charge d'urgence 2,centre hospitalier sainte-marie rodez,Occitanie
+ChIJ5yNAqXR-shIR9r649n8aCLI,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier sainte-marie rodez,Occitanie
+ChIJ62xIDt7MEUgR8-ORrroHy9Q,negatif,personnel désagréable,mauvaise expérience,examen et consultation,centre médico-psychologique (cmp),Bretagne
+ChIJ62xIDt7MEUgR8-ORrroHy9Q,positif,personnel agréable et à l'écoute,personnel désagréable,prise en charge d'urgence 2,centre médico-psychologique (cmp),Bretagne
+ChIJ63RvdqqzFkgROr2xPqKtDIA,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier ferdinand grall,Bretagne
+ChIJ63RvdqqzFkgROr2xPqKtDIA,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,centre hospitalier ferdinand grall,Bretagne
+ChIJ68BZkJKcGkgRvzCgwOejizU,negatif,prise en charge d'urgence 1,mauvaise expérience,locaux et accès,centre hospitalier yves lanco,Bretagne
+ChIJ68BZkJKcGkgRvzCgwOejizU,positif,personnel agréable et à l'écoute,attente,examen et consultation,centre hospitalier yves lanco,Bretagne
+ChIJ6RaBoxOe8kcRX5HeTvTXyH8,negatif,attente,mauvaise expérience,prise en charge d'urgence 2,centre hospitalier universitaire dijon bourgogne,Bourgogne-Franche-Comté
+ChIJ6RaBoxOe8kcRX5HeTvTXyH8,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier universitaire dijon bourgogne,Bourgogne-Franche-Comté
+ChIJ6RwvB1xeEEgRcKQZ9XmvSeI,negatif,attente,examen et consultation,personnel désagréable,hôpital du scorff,Bretagne
+ChIJ6RwvB1xeEEgRcKQZ9XmvSeI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital du scorff,Bretagne
+ChIJ6UyE1SnqzRIRJRPke1PSxcw,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier la palmosa - menton,Provence-Alpes-Côte d'Azur
+ChIJ6UyE1SnqzRIRJRPke1PSxcw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier la palmosa - menton,Provence-Alpes-Côte d'Azur
+ChIJ6c5NmyBP7kcRzBwWy0lqNVg,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier d’auxerre,Bourgogne-Franche-Comté
+ChIJ6c5NmyBP7kcRzBwWy0lqNVg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d’auxerre,Bourgogne-Franche-Comté
+ChIJ6dxV08mSVg0RW_7YYYSbsG8,negatif,attente,prise en charge d'urgence 1,examen et consultation,centre hospitalier d'orthez,Nouvelle-Aquitaine
+ChIJ6dxV08mSVg0RW_7YYYSbsG8,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier d'orthez,Nouvelle-Aquitaine
+ChIJ6xImL0AnyhIRnTJvQYl7Qis,negatif,examen et consultation,attente,mauvaise expérience,chi aix-pertuis - hôpital de pertuis,Provence-Alpes-Côte d'Azur
+ChIJ6xImL0AnyhIRnTJvQYl7Qis,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,chi aix-pertuis - hôpital de pertuis,Provence-Alpes-Côte d'Azur
+ChIJ75Xres9AAUgRbzxy39Hqsog,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de rochefort,Nouvelle-Aquitaine
+ChIJ75Xres9AAUgRbzxy39Hqsog,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de rochefort,Nouvelle-Aquitaine
+ChIJ772SHWNAUQ0RaZOkIwGDHmo,negatif,attente,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier côte basque - foyer lormand,Nouvelle-Aquitaine
+ChIJ7XperRCcD0gRO-z_lfAHB4c,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier intercommunal redon-carentoir,Bretagne
+ChIJ7XperRCcD0gRO-z_lfAHB4c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal redon-carentoir,Bretagne
+ChIJ7e-Jlgp3AUgRhf-e699e5K0,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier royan atlantique,Nouvelle-Aquitaine
+ChIJ7e-Jlgp3AUgRhf-e699e5K0,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier royan atlantique,Nouvelle-Aquitaine
+ChIJ81UWVajuBUgRDvpY7iXEYRw,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier universitaire de nantes,Pays de la Loire
+ChIJ81UWVajuBUgRDvpY7iXEYRw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire de nantes,Pays de la Loire
+ChIJ82gvDUbFzRIRZsu_5REAAdQ,negatif,personnel désagréable,mauvaise expérience,examen et consultation,pasteur 2,Provence-Alpes-Côte d'Azur
+ChIJ82gvDUbFzRIRZsu_5REAAdQ,positif,professionnalisme,personnel agréable et à l'écoute,examen et consultation,pasteur 2,Provence-Alpes-Côte d'Azur
+ChIJ832oTjDzEUgREd0SgFPHDUQ,negatif,examen et consultation,mauvaise expérience,attente,centre hospitalier de guingamp,Bretagne
+ChIJ832oTjDzEUgREd0SgFPHDUQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de guingamp,Bretagne
+ChIJ848tZOK7FkgR8LCIxUDrAtU,negatif,attente,personnel désagréable,prise en charge d'urgence 2,"centre hospitalier régional universitaire, service d'urgences",Bretagne
+ChIJ848tZOK7FkgR8LCIxUDrAtU,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,"centre hospitalier régional universitaire, service d'urgences",Bretagne
+ChIJ84uuXPe7FkgRWkvWaCvv11k,negatif,locaux et accès,mauvaise expérience,personnel désagréable,hôpital de jour langevin,Bretagne
+ChIJ89J5uDeCDkgR5M7h8WtJO9s,positif,personnel agréable et à l'écoute,locaux et accès,personnel désagréable,ehpad de la haize,Bretagne
+ChIJ8SUsS7OA9kcRy2Z3lkG0BUE,negatif,attente,prise en charge d'urgence 2,prise en charge d'urgence 1,centre hospitalier d'ambert,Auvergne-Rhône-Alpes
+ChIJ8SUsS7OA9kcRy2Z3lkG0BUE,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier d'ambert,Auvergne-Rhône-Alpes
+ChIJ8Viqqh3RVQ0R3PSkfR60cHY,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier intercommunal mont-de-marsan - pays des sources (site layné),Nouvelle-Aquitaine
+ChIJ8Viqqh3RVQ0R3PSkfR60cHY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal mont-de-marsan - pays des sources (site layné),Nouvelle-Aquitaine
+ChIJ8YhKYfNbAEgRRzQOEmEpH3U,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier de jonzac - clinique de la dépression,Nouvelle-Aquitaine
+ChIJ8ZpjLU_q9EcRqgxGvQKu4f4,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier saint joseph saint luc,Auvergne-Rhône-Alpes
+ChIJ8ZpjLU_q9EcRqgxGvQKu4f4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier saint joseph saint luc,Auvergne-Rhône-Alpes
+ChIJ8d9Ew9K7FkgRsE2eq5MG18I,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre psychothérapeutique winnicott,Bretagne
+ChIJ8edU6iEOsRIRSSCZ981VFDU,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de béziers,Occitanie
+ChIJ8edU6iEOsRIRSSCZ981VFDU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de béziers,Occitanie
+ChIJ8xRfHD6KDkgRDX7zhapr8to,negatif,prise en charge d'urgence 1,personnel désagréable,attente,centre hospitalier de dinan service des urgences,Bretagne
+ChIJ9-Sklc4xB0gRqYP8K6Q-VGs,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier de niort,Nouvelle-Aquitaine
+ChIJ9-Sklc4xB0gRqYP8K6Q-VGs,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de niort,Nouvelle-Aquitaine
+ChIJ95ouIGeJrBIRIIsJiEOmgoc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de cahors service des urgences,Occitanie
+ChIJ95ouIGeJrBIRIIsJiEOmgoc,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,attente,centre hospitalier de cahors service des urgences,Occitanie
+ChIJ9Q_zJDHcAEgR1kundqnRWPQ,negatif,attente,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier de saint jean d'angely,Nouvelle-Aquitaine
+ChIJ9Q_zJDHcAEgR1kundqnRWPQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saint jean d'angely,Nouvelle-Aquitaine
+ChIJ9UgBb1heEEgR89bUmOgmJBk,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre d'addictologie,Bretagne
+ChIJ9UvGS7qADkgR6-0AMP2X6lQ,negatif,personnel désagréable,locaux et accès,personnel agréable et à l'écoute,fondation partage et vie - hôpital arthur gardiner - dinard,Bretagne
+ChIJ9UvGS7qADkgR6-0AMP2X6lQ,positif,professionnalisme,personnel agréable et à l'écoute,mauvaise expérience,fondation partage et vie - hôpital arthur gardiner - dinard,Bretagne
+ChIJ9XgVJeKLrBIR78XrXKtpOno,negatif,mauvaise expérience,prise en charge d'urgence 2,personnel agréable et à l'écoute,institut camille miret,Occitanie
+ChIJ9agO1mnr0BIR4zcNbI_IG30,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier calvi balagne,Corse
+ChIJ9agO1mnr0BIR4zcNbI_IG30,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier calvi balagne,Corse
+ChIJ9bfyMqiC9EcRL6D3VunSCCY,negatif,mauvaise expérience,examen et consultation,prise en charge d'urgence 2,centre hospitalier de belleville,Auvergne-Rhône-Alpes
+ChIJ9bfyMqiC9EcRL6D3VunSCCY,positif,personnel agréable et à l'écoute,examen et consultation,mauvaise expérience,centre hospitalier de belleville,Auvergne-Rhône-Alpes
+ChIJ9dXI2gYt_kcRxZn6fNqgFfI,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier d'angoulême service des urgences,Nouvelle-Aquitaine
+ChIJ9dXI2gYt_kcRxZn6fNqgFfI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'angoulême service des urgences,Nouvelle-Aquitaine
+ChIJ9fLvYA7OqBIRcZC7vXhULxc,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier ariège couserans,Occitanie
+ChIJ9fLvYA7OqBIRcZC7vXhULxc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier ariège couserans,Occitanie
+ChIJ9zh2teg6tRIRHXBS8UqHlEc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de privas ardèche,Auvergne-Rhône-Alpes
+ChIJ9zh2teg6tRIRHXBS8UqHlEc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de privas ardèche,Auvergne-Rhône-Alpes
+ChIJA1KgUidZikcRjFvYjdT9lOQ,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier universitaire,Auvergne-Rhône-Alpes
+ChIJA1KgUidZikcRjFvYjdT9lOQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire,Auvergne-Rhône-Alpes
+ChIJA2ZfsjrSrRIRuJqK8FSNYE4,negatif,locaux et accès,professionnalisme,personnel désagréable,centre hospitalier,Occitanie
+ChIJA2ZfsjrSrRIRuJqK8FSNYE4,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier,Occitanie
+ChIJA4ovYzfbEEgRCOdC9Kv3hro,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de cornouaille quimper concarneau,Bretagne
+ChIJA4ovYzfbEEgRCOdC9Kv3hro,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de cornouaille quimper concarneau,Bretagne
+ChIJA5U52X4hyRIRsnPH3SGnz2k,negatif,prise en charge d'urgence 1,personnel désagréable,examen et consultation,hôpital san salvadour ap-hp,Provence-Alpes-Côte d'Azur
+ChIJA5U52X4hyRIRsnPH3SGnz2k,positif,personnel agréable et à l'écoute,professionnalisme,locaux et accès,hôpital san salvadour ap-hp,Provence-Alpes-Côte d'Azur
+ChIJA6NjEHSMrBIRbFZFcl2snmk,negatif,prise en charge d'urgence 2,professionnalisme,prise en charge d'urgence 1,centre hospitalier,Occitanie
+ChIJAQAvxeLQVQ0RxnITVFdWHq0,negatif,attente,examen et consultation,prise en charge d'urgence 2,"centre hospitalier de mont-de-marsan site layné, service des urgences",Nouvelle-Aquitaine
+ChIJAQAvxeLQVQ0RxnITVFdWHq0,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,"centre hospitalier de mont-de-marsan site layné, service des urgences",Nouvelle-Aquitaine
+ChIJAUVBPlXkikcRwTfcEEjCyTY,negatif,mauvaise expérience,examen et consultation,attente,hôpital de voiron,Auvergne-Rhône-Alpes
+ChIJAUVBPlXkikcRwTfcEEjCyTY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital de voiron,Auvergne-Rhône-Alpes
+ChIJAY-SlGzZVA0RFJaI7wpK9Ic,negatif,prise en charge d'urgence 2,attente,prise en charge d'urgence 1,centre de gérontologie clinique - hôpital xavier arnozan - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJAY-SlGzZVA0RFJaI7wpK9Ic,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre de gérontologie clinique - hôpital xavier arnozan - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJAY6GOt66rhIRcp6KQWg0Kk4,negatif,examen et consultation,attente,mauvaise expérience,hôpital des enfants,Occitanie
+ChIJAY6GOt66rhIRcp6KQWg0Kk4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital des enfants,Occitanie
+ChIJAZidw-gNrBIREuIr3G3Iexg,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de montauban,Occitanie
+ChIJAZidw-gNrBIREuIr3G3Iexg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de montauban,Occitanie
+ChIJAbSqddbQFkgROIpU92Bc2Sk,positif,prise en charge d'urgence 2,examen et consultation,locaux et accès,centre hospitalier michel mazéas service des urgences,Bretagne
+ChIJAd3fZYgeEEgRMnxv37f-k40,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier bretagne atlantique,Bretagne
+ChIJAd3fZYgeEEgRMnxv37f-k40,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier bretagne atlantique,Bretagne
+ChIJB0N9xu19shIRn8AZ3I00aSY,negatif,attente,examen et consultation,mauvaise expérience,hôpital jacques puel - bourran,Occitanie
+ChIJB0N9xu19shIRn8AZ3I00aSY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital jacques puel - bourran,Occitanie
+ChIJB3vyWHPYVA0RuGy3KR6W2CU,negatif,attente,mauvaise expérience,personnel désagréable,usn - groupe hospitalier pellegrin - chu de bordeaux,Nouvelle-Aquitaine
+ChIJB3vyWHPYVA0RuGy3KR6W2CU,positif,prise en charge d'urgence 1,maternité,professionnalisme,usn - groupe hospitalier pellegrin - chu de bordeaux,Nouvelle-Aquitaine
+ChIJB4yijdjXEUgRPBjEj3DwKR8,positif,prise en charge d'urgence 1,prise en charge d'urgence 2,personnel désagréable,ehpad la rose des sables - centre hospitalier du centre-bretagne (chcb),Bretagne
+ChIJB7z6LSO8FkgRyR9ApN1nqPA,positif,personnel agréable et à l'écoute,attente,locaux et accès,aub santé – centre de dialyse brest questel – consultation néphrologue brest questel,Bretagne
+ChIJBSyjHHPYVA0RaZwJwBd9giI,negatif,attente,examen et consultation,personnel désagréable,hôpital pellegrin bordeaux,Nouvelle-Aquitaine
+ChIJBSyjHHPYVA0RaZwJwBd9giI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital pellegrin bordeaux,Nouvelle-Aquitaine
+ChIJBY15UHHSrxIRW9K8_JAk5gE,negatif,mauvaise expérience,personnel désagréable,prise en charge d'urgence 1,centre hospitalier de limoux-quillan,Occitanie
+ChIJBY15UHHSrxIRW9K8_JAk5gE,positif,prise en charge d'urgence 2,locaux et accès,prise en charge d'urgence 1,centre hospitalier de limoux-quillan,Occitanie
+ChIJB_opNAqmVg0RLH2vuotoVOY,negatif,attente,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier de dax - côte d'argent,Nouvelle-Aquitaine
+ChIJB_opNAqmVg0RLH2vuotoVOY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de dax - côte d'argent,Nouvelle-Aquitaine
+ChIJBdVbYQAtrhIRdgkRJsw4_es,negatif,mauvaise expérience,attente,personnel désagréable,trésorerie de centre hospitalier,Occitanie
+ChIJBdVbYQAtrhIRdgkRJsw4_es,positif,mauvaise expérience,attente,examen et consultation,trésorerie de centre hospitalier,Occitanie
+ChIJC0X9rmOB2RIRgF3uuaWVjLQ,negatif,attente,examen et consultation,personnel désagréable,clinique de l'ospedale,Corse
+ChIJC0X9rmOB2RIRgF3uuaWVjLQ,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,clinique de l'ospedale,Corse
+ChIJC3Y9kUnuEEgRH1ULC4h8CHo,negatif,examen et consultation,attente,mauvaise expérience,hôpital de la villeneuve - groupe hospitalier bretagne sud - quimperlé,Bretagne
+ChIJC3Y9kUnuEEgRH1ULC4h8CHo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,hôpital de la villeneuve - groupe hospitalier bretagne sud - quimperlé,Bretagne
+ChIJCT4DMTZQDkgRWfAzPb0ckCg,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier du docteur de tersannes,Bretagne
+ChIJCX79VZxarhIRxNlfUsoWac0,negatif,attente,personnel agréable et à l'écoute,maternité,centre hospitalier jean pierre cassabel - service imagerie,Occitanie
+ChIJCX79VZxarhIRxNlfUsoWac0,positif,personnel agréable et à l'écoute,examen et consultation,mauvaise expérience,centre hospitalier jean pierre cassabel - service imagerie,Occitanie
+ChIJC_Hsgtd0DEgRqgr5sKFc-54,negatif,examen et consultation,attente,prise en charge d'urgence 2,centre hospitalier de coutances,Normandie
+ChIJC_Hsgtd0DEgRqgr5sKFc-54,positif,prise en charge d'urgence 2,professionnalisme,personnel agréable et à l'écoute,centre hospitalier de coutances,Normandie
+ChIJCcGnT5JfEEgRNVXCUou17R8,negatif,professionnalisme,mauvaise expérience,maternité,centre de gérontologie clinique de kerbernès - groupe hospitalier bretagne sud - ploemeur,Bretagne
+ChIJCcGnT5JfEEgRNVXCUou17R8,positif,professionnalisme,personnel agréable et à l'écoute,locaux et accès,centre de gérontologie clinique de kerbernès - groupe hospitalier bretagne sud - ploemeur,Bretagne
+ChIJCcosywgdDkgRofm1NZBH3-U,negatif,attente,examen et consultation,prise en charge d'urgence 2,samu 22,Bretagne
+ChIJD-DD5AjeDkgRApNNWHxg5Ms,negatif,attente,prise en charge d'urgence 2,mauvaise expérience,urgences - centre hospitalier privé saint-grégoire,Bretagne
+ChIJD0vY91heEEgROhtUBk8jvho,negatif,mauvaise expérience,personnel désagréable,attente,efs – maison du don –lorient,Bretagne
+ChIJD0vY91heEEgROhtUBk8jvho,positif,personnel agréable et à l'écoute,examen et consultation,personnel désagréable,efs – maison du don –lorient,Bretagne
+ChIJD1Qz8AUdDkgRPLgNqcpAjo4,negatif,prise en charge d'urgence 2,personnel agréable et à l'écoute,examen et consultation,"centre hospitalier de saint brieuc, service des urgences",Bretagne
+ChIJD30SjwAtrhIRiY-jkJI0liE,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de carcassonne,Occitanie
+ChIJD30SjwAtrhIRiY-jkJI0liE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de carcassonne,Occitanie
+ChIJD3k6uXTYVA0RJgEBU7ftZ3c,negatif,examen et consultation,attente,prise en charge d'urgence 1,hôpital des enfants - groupe hospitalier pellegrin - chu de bordeaux,Nouvelle-Aquitaine
+ChIJD3k6uXTYVA0RJgEBU7ftZ3c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital des enfants - groupe hospitalier pellegrin - chu de bordeaux,Nouvelle-Aquitaine
+ChIJD7s8umrXVA0Rl-mee54f6oU,negatif,mauvaise expérience,attente,prise en charge d'urgence 1,centre hospitalier vétérinaire aquivet,Nouvelle-Aquitaine
+ChIJD7s8umrXVA0Rl-mee54f6oU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier vétérinaire aquivet,Nouvelle-Aquitaine
+ChIJDWvOFN8rEkgRVONBONlAtiY,negatif,mauvaise expérience,prise en charge d'urgence 1,personnel désagréable,ehpad min ran,Bretagne
+ChIJDWvOFN8rEkgRVONBONlAtiY,positif,professionnalisme,prise en charge d'urgence 1,prise en charge d'urgence 2,ehpad min ran,Bretagne
+ChIJE04uiSQU2hIR4oT5H4P46os,positif,personnel agréable et à l'écoute,professionnalisme,maternité,centre valicelli,Corse
+ChIJE5_1H2F2VQ0RnxmpQBhNGX0,negatif,prise en charge d'urgence 2,locaux et accès,professionnalisme,centre hospitalier de bazas,Nouvelle-Aquitaine
+ChIJE5_1H2F2VQ0RnxmpQBhNGX0,positif,attente,examen et consultation,mauvaise expérience,centre hospitalier de bazas,Nouvelle-Aquitaine
+ChIJE9fByD8arxIR9ZYLUl5I54U,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier intercommunal des vallées de l'ariège,Occitanie
+ChIJE9fByD8arxIR9ZYLUl5I54U,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal des vallées de l'ariège,Occitanie
+ChIJEYK1uDXID0gROSsRfghpcS8,negatif,mauvaise expérience,prise en charge d'urgence 2,personnel désagréable,cmps centre médico-psychologique de secteur pour adultes,Bretagne
+ChIJEaElR7OArhIR8z5JeGUlRiM,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de lavaur,Occitanie
+ChIJEaElR7OArhIR8z5JeGUlRiM,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,centre hospitalier de lavaur,Occitanie
+ChIJEbocUAUpCUgRmzTWJnSyiZg,negatif,examen et consultation,mauvaise expérience,attente,centre hospitalier simone veil de vitré,Bretagne
+ChIJEbocUAUpCUgRmzTWJnSyiZg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier simone veil de vitré,Bretagne
+ChIJF2W6boMs_0cR6QeEPqKGi0s,negatif,mauvaise expérience,attente,professionnalisme,centre hospitalier saint yrieix,Nouvelle-Aquitaine
+ChIJF2W6boMs_0cR6QeEPqKGi0s,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,personnel désagréable,centre hospitalier saint yrieix,Nouvelle-Aquitaine
+ChIJFX9dr_4vikcRJJszpnb91DE,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier,Auvergne-Rhône-Alpes
+ChIJFX9dr_4vikcRJJszpnb91DE,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier,Auvergne-Rhône-Alpes
+ChIJFXI5UsBStRIRdu_CPZRVg_g,negatif,mauvaise expérience,personnel désagréable,prise en charge d'urgence 2,centre hospitalier drôme vivarais,Auvergne-Rhône-Alpes
+ChIJFXI5UsBStRIRdu_CPZRVg_g,positif,prise en charge d'urgence 1,prise en charge d'urgence 2,personnel désagréable,centre hospitalier drôme vivarais,Auvergne-Rhône-Alpes
+ChIJF_9xT2lu5kcRrjESyBR_Olw,negatif,attente,mauvaise expérience,examen et consultation,hôpital lariboisière ap-hp,Île-de-France
+ChIJF_9xT2lu5kcRrjESyBR_Olw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital lariboisière ap-hp,Île-de-France
+ChIJGUGDha1_-UcR92z2RDxPWTw,negatif,attente,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier de guéret,Nouvelle-Aquitaine
+ChIJGUGDha1_-UcR92z2RDxPWTw,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de guéret,Nouvelle-Aquitaine
+ChIJGaVcOWV190cRn5Ty1vbhUDU,negatif,attente,personnel désagréable,maternité,centre hospitalier du mont-dore,Auvergne-Rhône-Alpes
+ChIJGaVcOWV190cRn5Ty1vbhUDU,positif,personnel agréable et à l'écoute,attente,professionnalisme,centre hospitalier du mont-dore,Auvergne-Rhône-Alpes
+ChIJH4YT1cQUVQ0RlUarTybV26s,negatif,personnel désagréable,mauvaise expérience,attente,centre hospitalier spécialisé de cadillac,Nouvelle-Aquitaine
+ChIJH4YT1cQUVQ0RlUarTybV26s,positif,examen et consultation,personnel agréable et à l'écoute,maternité,centre hospitalier spécialisé de cadillac,Nouvelle-Aquitaine
+ChIJH4roT1NKshIRpeGUSNLQ1z0,negatif,attente,prise en charge d'urgence 1,examen et consultation,centre hospitalier,Occitanie
+ChIJH4roT1NKshIRpeGUSNLQ1z0,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier,Occitanie
+ChIJHRB-MCiI90cRl8l86a2P7OE,negatif,prise en charge d'urgence 2,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier de bort-les-orgues,Nouvelle-Aquitaine
+ChIJHRB-MCiI90cRl8l86a2P7OE,positif,professionnalisme,personnel désagréable,prise en charge d'urgence 1,centre hospitalier de bort-les-orgues,Nouvelle-Aquitaine
+ChIJHdcVzKIUVQ0RaSFdcip7HHo,negatif,locaux et accès,professionnalisme,attente,🅿️ centre hospitalier de cadillac,Nouvelle-Aquitaine
+ChIJHdcVzKIUVQ0RaSFdcip7HHo,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,🅿️ centre hospitalier de cadillac,Nouvelle-Aquitaine
+ChIJI9zsev7rtRIRfxgdiUZ3k4E,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier d'avignon,Provence-Alpes-Côte d'Azur
+ChIJI9zsev7rtRIRfxgdiUZ3k4E,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'avignon,Provence-Alpes-Côte d'Azur
+ChIJITAb25_KtRIRzuMCBY5ojcU,positif,professionnalisme,maternité,personnel agréable et à l'écoute,centre hospitalier uzès: service gériatrie,Occitanie
+ChIJIYWCVHNyVQ0RME1LRtHuYwU,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier sud gironde site de langon,Nouvelle-Aquitaine
+ChIJIYWCVHNyVQ0RME1LRtHuYwU,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,maternité,centre hospitalier sud gironde site de langon,Nouvelle-Aquitaine
+ChIJIaW_4ba3yhIR8-o4Mn1GJrU,negatif,attente,examen et consultation,professionnalisme,hôpital de die,Auvergne-Rhône-Alpes
+ChIJIaW_4ba3yhIR8-o4Mn1GJrU,positif,personnel agréable et à l'écoute,attente,prise en charge d'urgence 2,hôpital de die,Auvergne-Rhône-Alpes
+ChIJIcC5KfS4ikcRXtk9sKJrepE,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier st-marcellin,Auvergne-Rhône-Alpes
+ChIJIcC5KfS4ikcRXtk9sKJrepE,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,locaux et accès,centre hospitalier st-marcellin,Auvergne-Rhône-Alpes
+ChIJJ0NCs9Dm5UcR-RNTxf9ieok,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier sud francilien,Île-de-France
+ChIJJ0NCs9Dm5UcR-RNTxf9ieok,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier sud francilien,Île-de-France
+ChIJJQEtWHzSEUgRQUZ21P7Ugww,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier du centre-bretagne,Bretagne
+ChIJJQEtWHzSEUgRQUZ21P7Ugww,positif,professionnalisme,personnel désagréable,examen et consultation,centre hospitalier du centre-bretagne,Bretagne
+ChIJJWZgDrTk2RIRY3QuAflSdtY,negatif,examen et consultation,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal corte-tattone,Corse
+ChIJJWZgDrTk2RIRY3QuAflSdtY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal corte-tattone,Corse
+ChIJJ_i9OMpbEEgRELOgL0Q-5jk,negatif,mauvaise expérience,maternité,locaux et accès,epsm sud bretagne ch charcot,Bretagne
+ChIJJ_i9OMpbEEgRELOgL0Q-5jk,positif,mauvaise expérience,personnel désagréable,maternité,epsm sud bretagne ch charcot,Bretagne
+ChIJJ_z9_9xgqRIRw1BakmVi1Ts,positif,personnel agréable et à l'écoute,locaux et accès,examen et consultation,centre hospitalier de mauvezin,Occitanie
+ChIJJz62MqgT9UcRSOTt8gey-TA,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier d' ardèche nord,Auvergne-Rhône-Alpes
+ChIJJz62MqgT9UcRSOTt8gey-TA,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,centre hospitalier d' ardèche nord,Auvergne-Rhône-Alpes
+ChIJKR0a5UQdDkgRrvO8c0QsPDc,negatif,prise en charge d'urgence 1,attente,personnel agréable et à l'écoute,centre gériatrique des capucins,Bretagne
+ChIJKR0a5UQdDkgRrvO8c0QsPDc,positif,personnel agréable et à l'écoute,professionnalisme,maternité,centre gériatrique des capucins,Bretagne
+ChIJKcf_dZBgEEgRQdTNiSQJmlo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,locaux et accès,hôpital de kerdurand - riantec - groupe hospitalier bretagne sud,Bretagne
+ChIJKf4u99y-_UcRF6fD_emkvgY,negatif,attente,mauvaise expérience,examen et consultation,chu de poitiers site de la milétrie,Nouvelle-Aquitaine
+ChIJKf4u99y-_UcRF6fD_emkvgY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,chu de poitiers site de la milétrie,Nouvelle-Aquitaine
+ChIJL0oRW0fZVA0ROrMOFTAFpvI,negatif,mauvaise expérience,attente,prise en charge d'urgence 1,maison du haut-lévêque - haut-lévêque - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJL0oRW0fZVA0ROrMOFTAFpvI,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,maison du haut-lévêque - haut-lévêque - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJL51pdsRnEUgRgUqdJzKcmiY,positif,personnel agréable et à l'écoute,locaux et accès,attente,radiologie centre hospitalier des pays de morlaix,Bretagne
+ChIJL8Drl3XYVA0R2xmwumsDbkE,negatif,maternité,attente,personnel désagréable,centre aliénor d'aquitaine,Nouvelle-Aquitaine
+ChIJL8Drl3XYVA0R2xmwumsDbkE,positif,maternité,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre aliénor d'aquitaine,Nouvelle-Aquitaine
+ChIJLRIsYBpzjEcR09sIQXN5SuI,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier alpes-leman hôpital findrol,Auvergne-Rhône-Alpes
+ChIJLRIsYBpzjEcR09sIQXN5SuI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier alpes-leman hôpital findrol,Auvergne-Rhône-Alpes
+ChIJM-iye6pBqhIRHP4bP8YwTUs,negatif,prise en charge d'urgence 1,professionnalisme,attente,centre hospitalier agen-nérac (site de nérac),Nouvelle-Aquitaine
+ChIJM-iye6pBqhIRHP4bP8YwTUs,positif,personnel agréable et à l'écoute,professionnalisme,attente,centre hospitalier agen-nérac (site de nérac),Nouvelle-Aquitaine
+ChIJM4vzmdlp2hIRlaB3h6YjuNk,negatif,mauvaise expérience,personnel désagréable,attente,clinisud,Corse
+ChIJM4vzmdlp2hIRlaB3h6YjuNk,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,clinisud,Corse
+ChIJM7E_Qa7M_kcRATl3ASwnk8c,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier universitaire dupuytren 1,Nouvelle-Aquitaine
+ChIJM7E_Qa7M_kcRATl3ASwnk8c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire dupuytren 1,Nouvelle-Aquitaine
+ChIJMW8CT1E61xIRsIxKopV50XU,negatif,mauvaise expérience,personnel désagréable,attente,centre hospitalier de castelluccio,Corse
+ChIJMXkI26tGBkgROLHhC-f-ct8,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de cholet,Pays de la Loire
+ChIJMXkI26tGBkgROLHhC-f-ct8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de cholet,Pays de la Loire
+ChIJMcQGwaer70cRDvRWTIOeCqA,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier de joigny,Bourgogne-Franche-Comté
+ChIJMcQGwaer70cRDvRWTIOeCqA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de joigny,Bourgogne-Franche-Comté
+ChIJMdpjN3yBBUgRvWjA5aLdmoE,negatif,professionnalisme,prise en charge d'urgence 1,examen et consultation,hopital local estuaire et sillon,Pays de la Loire
+ChIJMdpjN3yBBUgRvWjA5aLdmoE,positif,prise en charge d'urgence 1,maternité,personnel agréable et à l'écoute,hopital local estuaire et sillon,Pays de la Loire
+ChIJMfz7-EzVEEgR76fpFGEoyLA,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,cpef (centre de planification et d'éducation familiale) de quimper,Bretagne
+ChIJN1XXxSguqBIRs6LhVBWWv0Y,negatif,attente,personnel désagréable,mauvaise expérience,centre hospitalier de bagnères de bigorre,Occitanie
+ChIJN1XXxSguqBIRs6LhVBWWv0Y,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de bagnères de bigorre,Occitanie
+ChIJN7s15PSqrhIR-byQ4x4pRpI,negatif,mauvaise expérience,examen et consultation,attente,"la clinique du cheval, centre hospitalier vetérinaire equin",Occitanie
+ChIJN7s15PSqrhIR-byQ4x4pRpI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,"la clinique du cheval, centre hospitalier vetérinaire equin",Occitanie
+ChIJN8Jpyytq2hIRx0hzcVfYkNc,negatif,examen et consultation,attente,prise en charge d'urgence 1,centre hospitalier ajaccio (centre de vaccination les salines),Corse
+ChIJN8Jpyytq2hIRx0hzcVfYkNc,positif,personnel agréable et à l'écoute,mauvaise expérience,professionnalisme,centre hospitalier ajaccio (centre de vaccination les salines),Corse
+ChIJNQ3X0CXeDkgRw47sW0h2DWA,negatif,mauvaise expérience,attente,examen et consultation,service de dermatologie du chu de rennes,Bretagne
+ChIJNQ3X0CXeDkgRw47sW0h2DWA,positif,personnel agréable et à l'écoute,professionnalisme,mauvaise expérience,service de dermatologie du chu de rennes,Bretagne
+ChIJNSqAdq0jyRIRW7GvriI6co4,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de hyères,Provence-Alpes-Côte d'Azur
+ChIJNSqAdq0jyRIRW7GvriI6co4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de hyères,Provence-Alpes-Côte d'Azur
+ChIJNXtpJxilBUgRkjKiASMv1RI,negatif,prise en charge d'urgence 2,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier loire vendée océan,Pays de la Loire
+ChIJNXtpJxilBUgRkjKiASMv1RI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier loire vendée océan,Pays de la Loire
+ChIJNw83E2LT90cRMNQG3oFQ9Do,negatif,examen et consultation,attente,personnel agréable et à l'écoute,centre hospitalier de saint-flour,Auvergne-Rhône-Alpes
+ChIJNw83E2LT90cRMNQG3oFQ9Do,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saint-flour,Auvergne-Rhône-Alpes
+ChIJO8Q1R6SNyRIRrvetviplFgQ,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier du pays d'aix,Provence-Alpes-Côte d'Azur
+ChIJO8Q1R6SNyRIRrvetviplFgQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier du pays d'aix,Provence-Alpes-Côte d'Azur
+ChIJOQAW8kuBDkgRbL1vkaEVtyA,negatif,professionnalisme,locaux et accès,mauvaise expérience,centre donald winnicott,Bretagne
+ChIJOS9FhafAyRIRM8mAJ_G8_AM,negatif,mauvaise expérience,attente,personnel désagréable,hôpitaux universitaires de marseille timone,Provence-Alpes-Côte d'Azur
+ChIJOS9FhafAyRIRM8mAJ_G8_AM,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpitaux universitaires de marseille timone,Provence-Alpes-Côte d'Azur
+ChIJOaSVQ8Fq5kcR2MJyyb6P8Tc,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de gonesse,Île-de-France
+ChIJOaSVQ8Fq5kcR2MJyyb6P8Tc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de gonesse,Île-de-France
+ChIJOd76eyUvVQ0RyRy1vU09RVI,negatif,prise en charge d'urgence 1,professionnalisme,attente,ehpad lormont - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJOd76eyUvVQ0RyRy1vU09RVI,positif,personnel agréable et à l'écoute,locaux et accès,personnel désagréable,ehpad lormont - groupe hospitalier sud - chu de bordeaux,Nouvelle-Aquitaine
+ChIJOeiusWvV_EcRguLbOmK-bq8,negatif,attente,locaux et accès,prise en charge d'urgence 2,chru tours - site bretonneau,Centre-Val de Loire
+ChIJOeiusWvV_EcRguLbOmK-bq8,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,chru tours - site bretonneau,Centre-Val de Loire
+ChIJOysOOLOX-kcRnDP1DYn61EA,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier jacques coeur,Centre-Val de Loire
+ChIJOysOOLOX-kcRnDP1DYn61EA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier jacques coeur,Centre-Val de Loire
+ChIJQ16WnxaKDkgRAxAspUPAvKk,negatif,professionnalisme,personnel agréable et à l'écoute,maternité,fondation saint jean de dieu - centre hospitalier dinan saint-brieuc,Bretagne
+ChIJQ16WnxaKDkgRAxAspUPAvKk,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,fondation saint jean de dieu - centre hospitalier dinan saint-brieuc,Bretagne
+ChIJQ1Boj7-8jUcRW0oBipuT1KY,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier intercommunal de haute-comté,Bourgogne-Franche-Comté
+ChIJQ1Boj7-8jUcRW0oBipuT1KY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier intercommunal de haute-comté,Bourgogne-Franche-Comté
+ChIJQ1ZrDlNJVQ0RDPeiVTAqR4I,negatif,attente,prise en charge d'urgence 2,examen et consultation,hôpital robert boulin urgences,Nouvelle-Aquitaine
+ChIJQ1ZrDlNJVQ0RDPeiVTAqR4I,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,hôpital robert boulin urgences,Nouvelle-Aquitaine
+ChIJQ7csHfT9CEgROZWaI_W2hi8,negatif,mauvaise expérience,personnel désagréable,attente,centre hospitalier de laval,Pays de la Loire
+ChIJQ7csHfT9CEgROZWaI_W2hi8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de laval,Pays de la Loire
+ChIJQS_VOZhRUQ0Re10xJZfY7PU,negatif,prise en charge d'urgence 1,prise en charge d'urgence 2,mauvaise expérience,centre hospitalier de dax - antenne de saint vincent de tyrosse,Nouvelle-Aquitaine
+ChIJQUHslJJbBUgRHTzBbQQ7myU,negatif,attente,professionnalisme,examen et consultation,hôpital intercommunal de la presqu'île - site de guérande,Pays de la Loire
+ChIJQUHslJJbBUgRHTzBbQQ7myU,positif,professionnalisme,locaux et accès,prise en charge d'urgence 1,hôpital intercommunal de la presqu'île - site de guérande,Pays de la Loire
+ChIJQWw0l4h2thIR4vUHKNjww8s,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier d'arles hôpital joseph imbert,Provence-Alpes-Côte d'Azur
+ChIJQWw0l4h2thIR4vUHKNjww8s,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'arles hôpital joseph imbert,Provence-Alpes-Côte d'Azur
+ChIJQ_4jgIXQ5UcRhf8mm5LZSBs,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier d'arpajon,Île-de-France
+ChIJQ_4jgIXQ5UcRhf8mm5LZSBs,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,centre hospitalier d'arpajon,Île-de-France
+ChIJQa4t0uq_qxIR8F2x_oNbQyw,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier des deux rives,Occitanie
+ChIJQa4t0uq_qxIR8F2x_oNbQyw,positif,personnel agréable et à l'écoute,locaux et accès,examen et consultation,centre hospitalier des deux rives,Occitanie
+ChIJQaThpYMs_0cRG6MiWlSxymQ,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier jacques boutard,Nouvelle-Aquitaine
+ChIJQaThpYMs_0cRG6MiWlSxymQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier jacques boutard,Nouvelle-Aquitaine
+ChIJQwhZg-C6rhIRHV4Y7-PIiTU,negatif,attente,mauvaise expérience,personnel désagréable,hôpital pierre-paul riquet,Occitanie
+ChIJQwhZg-C6rhIRHV4Y7-PIiTU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital pierre-paul riquet,Occitanie
+ChIJQwzMj4KFi0cRANVb4yurCA8,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier annecy genevois,Auvergne-Rhône-Alpes
+ChIJQwzMj4KFi0cRANVb4yurCA8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier annecy genevois,Auvergne-Rhône-Alpes
+ChIJR0Qwt33C9EcRJ9ZMIpJfBtE,negatif,attente,mauvaise expérience,examen et consultation,ghm les portes du sud,Auvergne-Rhône-Alpes
+ChIJR0Qwt33C9EcRJ9ZMIpJfBtE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,examen et consultation,ghm les portes du sud,Auvergne-Rhône-Alpes
+ChIJR2QIzT3C-EcRruFIHRkkyjg,positif,professionnalisme,locaux et accès,attente,centre hospitalier gériatrique,Nouvelle-Aquitaine
+ChIJR3tRwbag-0cR-TrhxCO67rc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de châteauroux,Centre-Val de Loire
+ChIJR3tRwbag-0cR-TrhxCO67rc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de châteauroux,Centre-Val de Loire
+ChIJR7YajfbZVA0RkkyC4YdFD7Q,negatif,attente,mauvaise expérience,examen et consultation,groupe hospitalier pellegrin,Nouvelle-Aquitaine
+ChIJR7YajfbZVA0RkkyC4YdFD7Q,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,groupe hospitalier pellegrin,Nouvelle-Aquitaine
+ChIJRQbJBmeJrBIRhmkmwgozI7w,negatif,attente,mauvaise expérience,prise en charge d'urgence 2,centre hospitalier,Occitanie
+ChIJRQbJBmeJrBIRhmkmwgozI7w,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier,Occitanie
+ChIJRTherHAz2hIR30Nj1QeFrNo,negatif,attente,personnel désagréable,prise en charge d'urgence 2,centre hospitalier de sartène,Corse
+ChIJRTherHAz2hIR30Nj1QeFrNo,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de sartène,Corse
+ChIJRVZq8q4MBUgRwO_MsEkQmYw,negatif,attente,prise en charge d'urgence 2,personnel désagréable,hôpital intercommunal du pays de retz,Pays de la Loire
+ChIJRVZq8q4MBUgRwO_MsEkQmYw,positif,professionnalisme,maternité,examen et consultation,hôpital intercommunal du pays de retz,Pays de la Loire
+ChIJRb6U2dUYEEgR3NK91ciVg_o,positif,personnel agréable et à l'écoute,locaux et accès,prise en charge d'urgence 2,centre hospitalier bretagne atlantique - service cardiologie,Bretagne
+ChIJRb6U2dUYEEgROle4j8X6P6I,negatif,attente,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier bretagne atlantique - service radiologie,Bretagne
+ChIJRb6U2dUYEEgROle4j8X6P6I,positif,personnel agréable et à l'écoute,attente,professionnalisme,centre hospitalier bretagne atlantique - service radiologie,Bretagne
+ChIJS0YHFBXZqRIRyLo6zXofvXk,negatif,mauvaise expérience,personnel agréable et à l'écoute,prise en charge d'urgence 2,hôpital gériatrique de vic en bigorre - accueil acacias - centre hospitalier de bigorre,Occitanie
+ChIJS0YHFBXZqRIRyLo6zXofvXk,positif,prise en charge d'urgence 1,locaux et accès,personnel agréable et à l'écoute,hôpital gériatrique de vic en bigorre - accueil acacias - centre hospitalier de bigorre,Occitanie
+ChIJS4_EXb1VrRIRCo17TM7VsQA,negatif,mauvaise expérience,personnel désagréable,attente,centre hospitalier henri mondor d'aurillac,Auvergne-Rhône-Alpes
+ChIJS4_EXb1VrRIRCo17TM7VsQA,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier henri mondor d'aurillac,Auvergne-Rhône-Alpes
+ChIJS6KkWIP7EEgRlabCuxUuwN8,negatif,mauvaise expérience,prise en charge d'urgence 1,prise en charge d'urgence 2,centre hospitalier de kerglanchard - groupe hospitalier bretagne sud - quimperlé,Bretagne
+ChIJS7ATci79-kcRjA7a1mRSvTw,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier de la tour blanche,Centre-Val de Loire
+ChIJS7ATci79-kcRjA7a1mRSvTw,positif,personnel agréable et à l'écoute,attente,personnel désagréable,centre hospitalier de la tour blanche,Centre-Val de Loire
+ChIJS958ju2o8UcR3znoWcZ64NE,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier de decize,Bourgogne-Franche-Comté
+ChIJS958ju2o8UcR3znoWcZ64NE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de decize,Bourgogne-Franche-Comté
+ChIJT9uXHxGKDkgRd0JSXWsnjdI,positif,prise en charge d'urgence 2,locaux et accès,personnel agréable et à l'écoute,centre hospitalier de dinan,Bretagne
+ChIJTUo3Ppnm9EcRx_Eq6Yh8Soc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de givors,Auvergne-Rhône-Alpes
+ChIJTUo3Ppnm9EcRx_Eq6Yh8Soc,positif,maternité,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier de givors,Auvergne-Rhône-Alpes
+ChIJTWtBPZT_Vg0Rkm32fUzLOmo,negatif,attente,personnel désagréable,prise en charge d'urgence 2,centre hospitalier général d'oloron,Nouvelle-Aquitaine
+ChIJTWtBPZT_Vg0Rkm32fUzLOmo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier général d'oloron,Nouvelle-Aquitaine
+ChIJTWxzLr_zqxIRjKkepJr7M-0,positif,professionnalisme,personnel agréable et à l'écoute,maternité,centre hospitalier intercommunal castelsarrasin moissac,Occitanie
+ChIJTX_b9fnV-UcRRqKUJXDzlMU,negatif,attente,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier du pays d'eygurande,Nouvelle-Aquitaine
+ChIJTXrW_arCrRIRPfc-zWxvIeY,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier d'albi,Occitanie
+ChIJTXrW_arCrRIRPfc-zWxvIeY,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier d'albi,Occitanie
+ChIJU0w6JD2UC0gR00NYHrHDsQU,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier mémorial de saint-lô,Normandie
+ChIJU0w6JD2UC0gR00NYHrHDsQU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier mémorial de saint-lô,Normandie
+ChIJU3clyAyyqxIRnKKahrgOBkY,negatif,mauvaise expérience,personnel agréable et à l'écoute,personnel désagréable,"centre hospitalier départemental ""la candélie""",Nouvelle-Aquitaine
+ChIJU3clyAyyqxIRnKKahrgOBkY,positif,professionnalisme,personnel agréable et à l'écoute,personnel désagréable,"centre hospitalier départemental ""la candélie""",Nouvelle-Aquitaine
+ChIJU3fW3oLRVQ0Ruw5IJG755Hw,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,hôpital layné,Nouvelle-Aquitaine
+ChIJU6upSEoethIRxN9BJMUCdR8,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de martigues,Provence-Alpes-Côte d'Azur
+ChIJU6upSEoethIRxN9BJMUCdR8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de martigues,Provence-Alpes-Côte d'Azur
+ChIJU9E1j_LqyRIRyPIXsoPDF28,negatif,mauvaise expérience,attente,examen et consultation,hôpital nord,Provence-Alpes-Côte d'Azur
+ChIJU9E1j_LqyRIRyPIXsoPDF28,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpital nord,Provence-Alpes-Côte d'Azur
+ChIJUZRRAZ1IVg0RmoblInmZfDI,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier françois mitterrand de pau,Nouvelle-Aquitaine
+ChIJUZRRAZ1IVg0RmoblInmZfDI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier françois mitterrand de pau,Nouvelle-Aquitaine
+ChIJUzdz2mWMD0gRUMI6cXkUYcM,negatif,personnel désagréable,locaux et accès,personnel agréable et à l'écoute,centre hospitalier de basse-vilaine,Bretagne
+ChIJVXvQHnbYVA0RHq6UtxL5Z1U,negatif,mauvaise expérience,prise en charge d'urgence 1,attente,centre hospitalier charles perrens,Nouvelle-Aquitaine
+ChIJVXvQHnbYVA0RHq6UtxL5Z1U,positif,personnel agréable et à l'écoute,professionnalisme,mauvaise expérience,centre hospitalier charles perrens,Nouvelle-Aquitaine
+ChIJVYeWaWW7rhIR4o4W0Pq-A2c,negatif,mauvaise expérience,attente,personnel désagréable,centre hospitalier universitaire de toulouse,Occitanie
+ChIJVYeWaWW7rhIR4o4W0Pq-A2c,positif,professionnalisme,personnel agréable et à l'écoute,attente,centre hospitalier universitaire de toulouse,Occitanie
+ChIJVYhdfAMt_kcRz0ifDLsXQWE,positif,personnel agréable et à l'écoute,personnel désagréable,professionnalisme,centre d'addictologie de la charente (antenne du centre hospitalier camille claudel),Nouvelle-Aquitaine
+ChIJVZEw-eErEkgRm9IXfgWWXyw,negatif,locaux et accès,prise en charge d'urgence 1,prise en charge d'urgence 2,fondation bon sauveur - centre françoise dolto,Bretagne
+ChIJVZEw-eErEkgRm9IXfgWWXyw,positif,personnel agréable et à l'écoute,professionnalisme,locaux et accès,fondation bon sauveur - centre françoise dolto,Bretagne
+ChIJVbaIxtBiD0gRMxoppjrAdEs,negatif,personnel désagréable,mauvaise expérience,attente,epsylan etablissement psychiatrique de loire-atlantique nord,Pays de la Loire
+ChIJVbaIxtBiD0gRMxoppjrAdEs,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,epsylan etablissement psychiatrique de loire-atlantique nord,Pays de la Loire
+ChIJW18RT2-VDkgRDvvM9ZD31XM,positif,professionnalisme,personnel agréable et à l'écoute,locaux et accès,centre local hospitalier saint-joseph,Bretagne
+ChIJW2Dplq-MAEgR5i2EteIrXJA,negatif,examen et consultation,attente,mauvaise expérience,hôpitaux de grand cognac,Nouvelle-Aquitaine
+ChIJW2Dplq-MAEgR5i2EteIrXJA,positif,maternité,personnel agréable et à l'écoute,prise en charge d'urgence 2,hôpitaux de grand cognac,Nouvelle-Aquitaine
+ChIJW2Wt9_sy-EcRGuYVi1EYhfI,negatif,attente,mauvaise expérience,prise en charge d'urgence 2,centre hospitalier de haute-corrèze,Nouvelle-Aquitaine
+ChIJW2Wt9_sy-EcRGuYVi1EYhfI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de haute-corrèze,Nouvelle-Aquitaine
+ChIJW3vw9jwUEEgR-tx476auB58,negatif,personnel désagréable,prise en charge d'urgence 1,attente,centre hospitalier bretagne atlantique,Bretagne
+ChIJW3vw9jwUEEgR-tx476auB58,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier bretagne atlantique,Bretagne
+ChIJWQKU2eVA_UcRkdQ2BxXAIDI,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier du chinonais,Centre-Val de Loire
+ChIJWQKU2eVA_UcRkdQ2BxXAIDI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier du chinonais,Centre-Val de Loire
+ChIJWRVO8TDPqkERDrZUJFsPCZw,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier d'angoulême,Nouvelle-Aquitaine
+ChIJWRVO8TDPqkERDrZUJFsPCZw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'angoulême,Nouvelle-Aquitaine
+ChIJWccy2GH9EUgRCfQycbxh5P8,negatif,attente,mauvaise expérience,examen et consultation,hôpital privé des côtes d'armor,Bretagne
+ChIJWccy2GH9EUgRCfQycbxh5P8,positif,personnel agréable et à l'écoute,maternité,professionnalisme,hôpital privé des côtes d'armor,Bretagne
+ChIJWxcXmqgT9UcRyCE65M4twfk,negatif,attente,personnel désagréable,prise en charge d'urgence 2,centre hospitalier d'annonay,Auvergne-Rhône-Alpes
+ChIJWxcXmqgT9UcRyCE65M4twfk,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'annonay,Auvergne-Rhône-Alpes
+ChIJX4kbVHR8jEcRC5gdSizYHMo,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier annecy genevois - site de saint-julien en genevois,Auvergne-Rhône-Alpes
+ChIJX4kbVHR8jEcRC5gdSizYHMo,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier annecy genevois - site de saint-julien en genevois,Auvergne-Rhône-Alpes
+ChIJX5Zeul0RDkgRcHXNSeQkciQ,negatif,prise en charge d'urgence 1,attente,examen et consultation,centre hospitalier du penthièvre et du poudouvre,Bretagne
+ChIJX5Zeul0RDkgRcHXNSeQkciQ,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 1,centre hospitalier du penthièvre et du poudouvre,Bretagne
+ChIJXbQPb0MM5EcR0hf2f874WiQ,negatif,personnel désagréable,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier hôtel dieu,Centre-Val de Loire
+ChIJXbQPb0MM5EcR0hf2f874WiQ,positif,professionnalisme,personnel agréable et à l'écoute,maternité,centre hospitalier hôtel dieu,Centre-Val de Loire
+ChIJXyFo8DLFVg0RDmSvhotjQ2c,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier de saint-palais,Nouvelle-Aquitaine
+ChIJXyFo8DLFVg0RDmSvhotjQ2c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saint-palais,Nouvelle-Aquitaine
+ChIJY4Wtq669FkgRoOHtXSzVVjM,negatif,personnel désagréable,locaux et accès,professionnalisme,centre de soins et réadaptation à guilers,Bretagne
+ChIJY4Wtq669FkgRoOHtXSzVVjM,positif,personnel agréable et à l'écoute,professionnalisme,personnel désagréable,centre de soins et réadaptation à guilers,Bretagne
+ChIJY6xG1C1H9EcRtp5INKePSYc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier du forez - site de montbrison,Auvergne-Rhône-Alpes
+ChIJY6xG1C1H9EcRtp5INKePSYc,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier du forez - site de montbrison,Auvergne-Rhône-Alpes
+ChIJY9_2z_iIEUgRiJTH5V-c1JU,negatif,mauvaise expérience,maternité,locaux et accès,fondation bon sauveur,Bretagne
+ChIJY9_2z_iIEUgRiJTH5V-c1JU,positif,professionnalisme,personnel désagréable,mauvaise expérience,fondation bon sauveur,Bretagne
+ChIJYQjTuI8b90cRulIEupivoEI,negatif,attente,mauvaise expérience,examen et consultation,chu clermont-fd : site gabriel-montpied,Auvergne-Rhône-Alpes
+ChIJYQjTuI8b90cRulIEupivoEI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,chu clermont-fd : site gabriel-montpied,Auvergne-Rhône-Alpes
+ChIJZ4MssEJZEEgRlEFjF-MG-lo,negatif,attente,prise en charge d'urgence 1,personnel désagréable,epsm sud bretagne ch charcot (direction et services administratifs),Bretagne
+ChIJZ4MssEJZEEgRlEFjF-MG-lo,positif,personnel désagréable,maternité,prise en charge d'urgence 2,epsm sud bretagne ch charcot (direction et services administratifs),Bretagne
+ChIJZ8C4qSSNqxIRvyMmdI2i_EA,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier intercommunal castelsarrasin moissac,Occitanie
+ChIJZ8C4qSSNqxIRvyMmdI2i_EA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal castelsarrasin moissac,Occitanie
+ChIJZQi0O9aD2RIRMon-5sh1I20,negatif,examen et consultation,mauvaise expérience,prise en charge d'urgence 2,centre médico-psychologique et centre accueil thérapeutique temps partiel,Corse
+ChIJZQi0O9aD2RIRMon-5sh1I20,positif,professionnalisme,mauvaise expérience,personnel désagréable,centre médico-psychologique et centre accueil thérapeutique temps partiel,Corse
+ChIJZTqdHQPN9kcRmpn9FiJcw9Q,negatif,attente,personnel désagréable,prise en charge d'urgence 1,centre hospitalier de vichy,Auvergne-Rhône-Alpes
+ChIJZTqdHQPN9kcRmpn9FiJcw9Q,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de vichy,Auvergne-Rhône-Alpes
+ChIJZb3z9PxiVQ0R-sQ_cKa4b-k,negatif,professionnalisme,attente,mauvaise expérience,centre hospitalier sud gironde (site de la réole),Nouvelle-Aquitaine
+ChIJZb3z9PxiVQ0R-sQ_cKa4b-k,positif,professionnalisme,personnel agréable et à l'écoute,maternité,centre hospitalier sud gironde (site de la réole),Nouvelle-Aquitaine
+ChIJZeLFBuSn5EcRO26J3HpT5sc,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de blois,Centre-Val de Loire
+ChIJZeLFBuSn5EcRO26J3HpT5sc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de blois,Centre-Val de Loire
+ChIJ_1VSFMEnVQ0RbgURachHlc0,negatif,attente,examen et consultation,personnel désagréable,hôpital saint-andré,Nouvelle-Aquitaine
+ChIJ_1VSFMEnVQ0RbgURachHlc0,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital saint-andré,Nouvelle-Aquitaine
+ChIJ_6q_CzHzEUgRaUeFAs5OeSU,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre médico psychologique,Bretagne
+ChIJ____88N6AEgRRHmBSW81b2k,positif,prise en charge d'urgence 2,examen et consultation,professionnalisme,hôpitaux du sud charente : service des urgences,Nouvelle-Aquitaine
+ChIJ____TIZAUQ0RYq5BJCQkDiw,positif,personnel agréable et à l'écoute,professionnalisme,personnel désagréable,centre hospitalier de la côte basque service des urgences,Nouvelle-Aquitaine
+ChIJ_____78c60cRT57o0Tkdydo,negatif,examen et consultation,mauvaise expérience,personnel désagréable,centre hospitalier verdun site saint-nicolas,Grand Est
+ChIJ_____78c60cRT57o0Tkdydo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier verdun site saint-nicolas,Grand Est
+ChIJ____z4keEEgR6rUHks8XE-E,negatif,examen et consultation,attente,professionnalisme,centre hospitalier chubert service des urgences,Bretagne
+ChIJ_cyigm7YVA0RFysrAnsXrfI,negatif,personnel désagréable,mauvaise expérience,attente,centre hospitalier​ universitaire de bordeaux,Nouvelle-Aquitaine
+ChIJ_cyigm7YVA0RFysrAnsXrfI,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier​ universitaire de bordeaux,Nouvelle-Aquitaine
+ChIJ_yJ2d_fX-0cRJbIKR6yC9lI,positif,personnel agréable et à l'écoute,attente,prise en charge d'urgence 2,centre hospitalier la valette,Nouvelle-Aquitaine
+ChIJa-NVMCWB4UcRrKGXus17SCo,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de l'aigle,Normandie
+ChIJa-NVMCWB4UcRrKGXus17SCo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,centre hospitalier de l'aigle,Normandie
+ChIJa6zsxnYbEkgR16WyBFLvbDM,negatif,examen et consultation,attente,prise en charge d'urgence 1,"centre hospitalier de paimpol, service d'urgence",Bretagne
+ChIJa6zsxnYbEkgR16WyBFLvbDM,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,personnel désagréable,"centre hospitalier de paimpol, service d'urgence",Bretagne
+ChIJa8uqbQ3UqRIREixZczv2J1w,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier de bigorre,Occitanie
+ChIJa8uqbQ3UqRIREixZczv2J1w,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de bigorre,Occitanie
+ChIJaaEnQ3YbEkgRftA4Krvd-_A,negatif,personnel désagréable,attente,prise en charge d'urgence 2,centre hospitalier paimpol,Bretagne
+ChIJae9ZdQa7EUgRW7hE1Mbe9uc,negatif,examen et consultation,locaux et accès,mauvaise expérience,centre hospitalier spécialisé chs,Bretagne
+ChIJae9ZdQa7EUgRW7hE1Mbe9uc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,locaux et accès,centre hospitalier spécialisé chs,Bretagne
+ChIJb8oovQudDkgR6ajxogTkBq4,positif,maternité,locaux et accès,professionnalisme,centre hospitalier des prés bosgers,Bretagne
+ChIJbTjiQHcbEkgRVwBEZPAigGo,negatif,examen et consultation,attente,mauvaise expérience,hôpital,Bretagne
+ChIJbTjiQHcbEkgRVwBEZPAigGo,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpital,Bretagne
+ChIJbaK5LMyktRIRPNQYlun1BnA,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier de bagnols-sur-cèze,Occitanie
+ChIJbaK5LMyktRIRPNQYlun1BnA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de bagnols-sur-cèze,Occitanie
+ChIJbbpxCcR6AEgRh13635WUJtk,negatif,attente,examen et consultation,prise en charge d'urgence 1,hôpital de barbezieux-saint-hilaire,Nouvelle-Aquitaine
+ChIJbbpxCcR6AEgRh13635WUJtk,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpital de barbezieux-saint-hilaire,Nouvelle-Aquitaine
+ChIJbdsbfy1JVQ0RbnkztDGNREw,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de libourne,Nouvelle-Aquitaine
+ChIJbdsbfy1JVQ0RbnkztDGNREw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de libourne,Nouvelle-Aquitaine
+ChIJbfzIBQOnrRIRtuSQQ2lJnIU,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier,Occitanie
+ChIJbfzIBQOnrRIRtuSQQ2lJnIU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier,Occitanie
+ChIJbxwyoLxVrRIRy7Rh-vJtgkY,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier henri mondor,Auvergne-Rhône-Alpes
+ChIJbxwyoLxVrRIRy7Rh-vJtgkY,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier henri mondor,Auvergne-Rhône-Alpes
+ChIJc-XoJ7NiEUgR6KE8i2WSwMc,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier,Bretagne
+ChIJc24NyDPID0gRjIrFbeqCAr0,positif,professionnalisme,personnel désagréable,attente,établissement public de santé mentale morbihan,Bretagne
+ChIJcQAJfVZNtRIRWOBBppB2QJQ,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier de valence,Auvergne-Rhône-Alpes
+ChIJcQAJfVZNtRIRWOBBppB2QJQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de valence,Auvergne-Rhône-Alpes
+ChIJcZfTqSidqRIRnGNaxJuG1X8,positif,examen et consultation,maternité,personnel agréable et à l'écoute,centre hospitalier,Occitanie
+ChIJcboXXaLKtRIRax2cQ_6UBMA,negatif,attente,personnel désagréable,mauvaise expérience,hôpital d’uzès,Occitanie
+ChIJcboXXaLKtRIRax2cQ_6UBMA,positif,personnel agréable et à l'écoute,maternité,professionnalisme,hôpital d’uzès,Occitanie
+ChIJcfUz7vf5EEgRKUSDj1Q2oM0,negatif,prise en charge d'urgence 1,professionnalisme,personnel agréable et à l'écoute,ehpad bois joly - groupe hospitalier bretagne sud - quimperlé,Bretagne
+ChIJcfUz7vf5EEgRKUSDj1Q2oM0,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,ehpad bois joly - groupe hospitalier bretagne sud - quimperlé,Bretagne
+ChIJd6ElY2P05UcRmzZomQY1vVI,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de fontainebleau,Île-de-France
+ChIJd6ElY2P05UcRmzZomQY1vVI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de fontainebleau,Île-de-France
+ChIJd6yztGIui0cROd2puE8pQ5s,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier pierre oudot,Auvergne-Rhône-Alpes
+ChIJd6yztGIui0cROd2puE8pQ5s,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier pierre oudot,Auvergne-Rhône-Alpes
+ChIJdRi-lVhIVg0R8ExJUiEVJeo,negatif,personnel désagréable,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier des pyrénées,Nouvelle-Aquitaine
+ChIJdYJlq7eXBkgRf4DTe7EgxT8,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier de fontenay-le-comte,Pays de la Loire
+ChIJdYJlq7eXBkgRf4DTe7EgxT8,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,maternité,centre hospitalier de fontenay-le-comte,Pays de la Loire
+ChIJdb-Si-I_rBIRVtgdYQh-LEc,negatif,prise en charge d'urgence 2,attente,examen et consultation,centre hospitalier nègrepelisse,Occitanie
+ChIJdbVhF_JCtBIRd9jDM6ydmCc,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier alès-cévennes,Occitanie
+ChIJdbVhF_JCtBIRd9jDM6ydmCc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier alès-cévennes,Occitanie
+ChIJdw7-cW858kcROQEVjdlJ9HA,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier d'autun,Bourgogne-Franche-Comté
+ChIJdw7-cW858kcROQEVjdlJ9HA,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,examen et consultation,centre hospitalier d'autun,Bourgogne-Franche-Comté
+ChIJeYe-7AUN5EcRKBK8iH5-Pew,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de chartres,Centre-Val de Loire
+ChIJeYe-7AUN5EcRKBK8iH5-Pew,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de chartres,Centre-Val de Loire
+ChIJe_wD56PJrhIR97Dz0C_GsV4,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 2,centre hospitalier de muret,Occitanie
+ChIJe_wD56PJrhIR97Dz0C_GsV4,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 1,centre hospitalier de muret,Occitanie
+ChIJebLDgAERDkgRGwN_cqAIZTI,negatif,mauvaise expérience,personnel agréable et à l'écoute,professionnalisme,centre de santé de lamballe,Bretagne
+ChIJeyo_jkQk1xIRRDUJZ7YfU58,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,institut de formation en soins infirmiers (ifsi),Corse
+ChIJf4MCLHGvyRIRl6O0kaZuk_s,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier la ciotat,Provence-Alpes-Côte d'Azur
+ChIJf4MCLHGvyRIRl6O0kaZuk_s,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier la ciotat,Provence-Alpes-Côte d'Azur
+ChIJf4kY31NqtRIRI-A5ImObTR4,negatif,examen et consultation,attente,mauvaise expérience,groupement hospitalier portes de provence,Auvergne-Rhône-Alpes
+ChIJf4kY31NqtRIRI-A5ImObTR4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,groupement hospitalier portes de provence,Auvergne-Rhône-Alpes
+ChIJf5L1fNm6rhIRH4C34dTGTgw,negatif,mauvaise expérience,personnel désagréable,prise en charge d'urgence 1,hôpital garonne,Occitanie
+ChIJf5L1fNm6rhIRH4C34dTGTgw,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpital garonne,Occitanie
+ChIJf6hZOgYk1xIRH75ITgL1mY8,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier bastia,Corse
+ChIJf6hZOgYk1xIRH75ITgL1mY8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier bastia,Corse
+ChIJfSwbXQUMEUgRQnis6jhyDck,negatif,mauvaise expérience,attente,personnel désagréable,hôpital de carhaix,Bretagne
+ChIJfSwbXQUMEUgRQnis6jhyDck,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital de carhaix,Bretagne
+ChIJfXNXMoIvBEgRjaxuw6bsShI,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier départemental vendée,Pays de la Loire
+ChIJfXNXMoIvBEgRjaxuw6bsShI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier départemental vendée,Pays de la Loire
+ChIJfb4fjrpx_0cReZNcuzdTjoQ,positif,professionnalisme,attente,mauvaise expérience,centre hospitalier de périgueux - maison de retraite parrot,Nouvelle-Aquitaine
+ChIJfeNYLfKrFkgRfa5vmppgTgo,negatif,prise en charge d'urgence 1,personnel agréable et à l'écoute,attente,centre médico-psychologique du centre hospitalier pays de morlaix,Bretagne
+ChIJfzFk4qrCrRIRFMvSJcmqmzE,negatif,examen et consultation,prise en charge d'urgence 1,mauvaise expérience,service des urgences du centre hospitalier d'albi,Occitanie
+ChIJg4JW_BNrD0gRYt2IsQzRUew,negatif,mauvaise expérience,prise en charge d'urgence 1,personnel désagréable,centre hospitalier de grand-fougeray,Bretagne
+ChIJg4JW_BNrD0gRYt2IsQzRUew,positif,locaux et accès,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier de grand-fougeray,Bretagne
+ChIJgbiuZc9AAUgRifDj8dDAc3k,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,attente,centre hospitalier de rochefort service des urgences,Nouvelle-Aquitaine
+ChIJh6BQy7HM_kcRLI7Kj02oUZE,negatif,professionnalisme,mauvaise expérience,attente,hôpital le cluzeau,Nouvelle-Aquitaine
+ChIJhQF0l_is9UcRWZ7mt-0i6Gs,negatif,mauvaise expérience,examen et consultation,prise en charge d'urgence 1,hôpital nord,Auvergne-Rhône-Alpes
+ChIJhQF0l_is9UcRWZ7mt-0i6Gs,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital nord,Auvergne-Rhône-Alpes
+ChIJhR-3-AjeDkgRgt0OJnsWWh8,negatif,prise en charge d'urgence 1,locaux et accès,personnel désagréable,centre hospitalier privé saint-grégoire urgences gynéco-obstétricales,Bretagne
+ChIJhVYz8AUdDkgRv_dj7MEI6Uw,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier de saint brieuc,Bretagne
+ChIJhVYz8AUdDkgRv_dj7MEI6Uw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saint brieuc,Bretagne
+ChIJhYtPkIkeEEgRhpC9xFaxqiE,negatif,professionnalisme,locaux et accès,prise en charge d'urgence 1,centre psychothérapique pour adolescents (cppa),Bretagne
+ChIJhYtPkIkeEEgRhpC9xFaxqiE,positif,attente,personnel désagréable,prise en charge d'urgence 2,centre psychothérapique pour adolescents (cppa),Bretagne
+ChIJhc6Y8V_aC0gRq8UJR3iP9Hg,negatif,personnel désagréable,mauvaise expérience,attente,centre hospitalier de vire,Normandie
+ChIJhc6Y8V_aC0gRq8UJR3iP9Hg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de vire,Normandie
+ChIJhd1u2oJIVg0ReuOe5R_Ux6k,negatif,professionnalisme,mauvaise expérience,personnel désagréable,centre jean vignalou,Nouvelle-Aquitaine
+ChIJhd1u2oJIVg0ReuOe5R_Ux6k,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre jean vignalou,Nouvelle-Aquitaine
+ChIJhfCB42cDBkgR9SRzH_VmaLo,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier erdre et loire,Pays de la Loire
+ChIJhfCB42cDBkgR9SRzH_VmaLo,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,maternité,centre hospitalier erdre et loire,Pays de la Loire
+ChIJhfOyx2z15kcRPQiNCoItOjo,negatif,attente,examen et consultation,mauvaise expérience,hôpital rené dubos,Île-de-France
+ChIJhfOyx2z15kcRPQiNCoItOjo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,hôpital rené dubos,Île-de-France
+ChIJiQB1rqpu5kcRl2xy2EPfp-s,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier de saint-denis,Île-de-France
+ChIJiQB1rqpu5kcRl2xy2EPfp-s,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de saint-denis,Île-de-France
+ChIJidBpY2Kgk0cR4P3ai-_rI7c,negatif,attente,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier emile durkheim,Grand Est
+ChIJidBpY2Kgk0cR4P3ai-_rI7c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier emile durkheim,Grand Est
+ChIJiy9Bb9FmEUgRP_s1nihRumk,positif,examen et consultation,prise en charge d'urgence 1,mauvaise expérience,pharmacie du centre hospitalier des pays de morlaix,Bretagne
+ChIJiy9Bb9FmEUgRt5gO7R0Rdys,negatif,attente,prise en charge d'urgence 1,examen et consultation,centre hospitalier des pays de morlaix,Bretagne
+ChIJiy9Bb9FmEUgRt5gO7R0Rdys,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier des pays de morlaix,Bretagne
+ChIJizTePtY0Vg0RsYDxBYMkQjQ,negatif,prise en charge d'urgence 2,personnel désagréable,maternité,centre hospitalier des pyrénées,Nouvelle-Aquitaine
+ChIJj52N1gqmVg0RwPFidGw0E2I,negatif,personnel désagréable,examen et consultation,mauvaise expérience,"centre hospitalier de dax côte d'argent, services d'urgences",Nouvelle-Aquitaine
+ChIJj52N1gqmVg0RwPFidGw0E2I,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,prise en charge d'urgence 1,"centre hospitalier de dax côte d'argent, services d'urgences",Nouvelle-Aquitaine
+ChIJj80JhYujD0gRntqFTzMgciQ,positif,prise en charge d'urgence 1,prise en charge d'urgence 2,personnel désagréable,centre hospitalier intercommunal redon-carentoir (site de carentoir),Bretagne
+ChIJjSa_ga1I_kcRQFErY-0r1Gg,negatif,mauvaise expérience,prise en charge d'urgence 1,professionnalisme,centre hospitalier de la rochefoucauld,Nouvelle-Aquitaine
+ChIJjSa_ga1I_kcRQFErY-0r1Gg,positif,professionnalisme,personnel agréable et à l'écoute,personnel désagréable,centre hospitalier de la rochefoucauld,Nouvelle-Aquitaine
+ChIJjWIChq9x_0cRtDh09woDNoU,positif,professionnalisme,personnel agréable et à l'écoute,locaux et accès,centre hospitalier vauclaire : unité d’addictologie escales,Nouvelle-Aquitaine
+ChIJjXQXThwk1xIR8PD1WsTmDB8,negatif,prise en charge d'urgence 1,mauvaise expérience,personnel agréable et à l'écoute,maison des adolescents,Corse
+ChIJjXQXThwk1xIR8PD1WsTmDB8,positif,maternité,personnel agréable et à l'écoute,examen et consultation,maison des adolescents,Corse
+ChIJjaob0fBEVQ0R-rW3kbHhjB8,negatif,prise en charge d'urgence 1,mauvaise expérience,attente,"clinique de conques, centre hospitalier veterinaire equin",Nouvelle-Aquitaine
+ChIJjaob0fBEVQ0R-rW3kbHhjB8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,"clinique de conques, centre hospitalier veterinaire equin",Nouvelle-Aquitaine
+ChIJjckwKO1p2hIRQU94bsF80ig,negatif,mauvaise expérience,prise en charge d'urgence 1,professionnalisme,docteur joly bertrand,Corse
+ChIJjckwKO1p2hIRQU94bsF80ig,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,docteur joly bertrand,Corse
+ChIJjesAK6WI4kcR0SQiwcWJAdI,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier - le mans,Pays de la Loire
+ChIJjesAK6WI4kcR0SQiwcWJAdI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier - le mans,Pays de la Loire
+ChIJjyydpySNqxIRmkYFFZ8xcmo,positif,personnel agréable et à l'écoute,personnel désagréable,professionnalisme,centre hospitalier intercommunal castelsarrasin service des urgences,Occitanie
+ChIJk42jRwiatRIRlFo7BT1iHxw,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier louis giorgi (orange),Provence-Alpes-Côte d'Azur
+ChIJk42jRwiatRIRlFo7BT1iHxw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier louis giorgi (orange),Provence-Alpes-Côte d'Azur
+ChIJkVdbsHz05UcRCxWBPAtFqJw,negatif,personnel désagréable,prise en charge d'urgence 2,locaux et accès,centre hospitalier du sud seine et marne,Île-de-France
+ChIJkVl7fkbFzRIRBqFQbSKJPAo,negatif,attente,mauvaise expérience,examen et consultation,hôpital pasteur,Provence-Alpes-Côte d'Azur
+ChIJkVl7fkbFzRIRBqFQbSKJPAo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital pasteur,Provence-Alpes-Côte d'Azur
+ChIJkXCDPl0k1xIRpxMtKAhL69E,negatif,examen et consultation,personnel désagréable,attente,mouries jean-claude,Corse
+ChIJkYYPaeOlVg0RhqX5Wbx_PJ8,negatif,attente,mauvaise expérience,personnel désagréable,centre des finances publiques - trésorerie dax centre hospitalier,Nouvelle-Aquitaine
+ChIJkYYPaeOlVg0RhqX5Wbx_PJ8,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre des finances publiques - trésorerie dax centre hospitalier,Nouvelle-Aquitaine
+ChIJkbj6QaiZ7kcRQSiQqhgLUoU,negatif,attente,mauvaise expérience,examen et consultation,hôpital simone veil - ch de troyes,Grand Est
+ChIJkbj6QaiZ7kcRQSiQqhgLUoU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital simone veil - ch de troyes,Grand Est
+ChIJkx_RVDdFAEgR3wFUBiXTTuA,negatif,attente,prise en charge d'urgence 1,prise en charge d'urgence 2,hôpital de jonzac,Nouvelle-Aquitaine
+ChIJkx_RVDdFAEgR3wFUBiXTTuA,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,hôpital de jonzac,Nouvelle-Aquitaine
+ChIJl0FARLq-yRIRexWaD-82U6Q,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier spécialisé de valvert,Provence-Alpes-Côte d'Azur
+ChIJl0FARLq-yRIRexWaD-82U6Q,positif,professionnalisme,mauvaise expérience,attente,centre hospitalier spécialisé de valvert,Provence-Alpes-Côte d'Azur
+ChIJl7-02oLQqhIRwd_GxJi29fA,negatif,attente,examen et consultation,prise en charge d'urgence 1,ch bergerac-centre hospitalier samuel pozzi hôpital,Nouvelle-Aquitaine
+ChIJl7-02oLQqhIRwd_GxJi29fA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,ch bergerac-centre hospitalier samuel pozzi hôpital,Nouvelle-Aquitaine
+ChIJlS6a74bykkcRGwjzFtytiO4,negatif,attente,prise en charge d'urgence 1,mauvaise expérience,groupe hospitalier de la haute-saône - site de vesoul,Bourgogne-Franche-Comté
+ChIJlS6a74bykkcRGwjzFtytiO4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,groupe hospitalier de la haute-saône - site de vesoul,Bourgogne-Franche-Comté
+ChIJl_3Q04RoBUgRoqraC-CBN88,negatif,prise en charge d'urgence 1,personnel agréable et à l'écoute,personnel désagréable,centre de planification et d'éducation familiale - centre ivg,Pays de la Loire
+ChIJl_3Q04RoBUgRoqraC-CBN88,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre de planification et d'éducation familiale - centre ivg,Pays de la Loire
+ChIJlbNhFryhB0gRouliuYZZftE,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier nord deux-sèvres - site hospitalier de faye l'abbesse,Nouvelle-Aquitaine
+ChIJlbNhFryhB0gRouliuYZZftE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,centre hospitalier nord deux-sèvres - site hospitalier de faye l'abbesse,Nouvelle-Aquitaine
+ChIJm1WgM66uthIRm3QtDvfRjP8,negatif,attente,prise en charge d'urgence 2,mauvaise expérience,centre hospitalier universitaire de montpellier,Occitanie
+ChIJm1WgM66uthIRm3QtDvfRjP8,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier universitaire de montpellier,Occitanie
+ChIJm6JCYNTL5UcRgVlbO5_fEMw,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier sud essonne - site d’etampes,Île-de-France
+ChIJm6JCYNTL5UcRgVlbO5_fEMw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier sud essonne - site d’etampes,Île-de-France
+ChIJmQRejjHzEUgR94wWr5qg5qU,negatif,attente,personnel désagréable,examen et consultation,"hôpital de guingamp, service des urgences",Bretagne
+ChIJmQRejjHzEUgR94wWr5qg5qU,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,"hôpital de guingamp, service des urgences",Bretagne
+ChIJmTOZ1LrM_kcRtmu-HKE-vN0,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier universitaire dupuytren 1 urgences,Nouvelle-Aquitaine
+ChIJmTOZ1LrM_kcRtmu-HKE-vN0,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier universitaire dupuytren 1 urgences,Nouvelle-Aquitaine
+ChIJmWlE3WD8qBIRPfO32rNWGBU,negatif,examen et consultation,attente,personnel désagréable,centre hospitalier comminges pyrénées,Occitanie
+ChIJmWlE3WD8qBIRPfO32rNWGBU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier comminges pyrénées,Occitanie
+ChIJmZSh6qxTAUgRjXRIh4P5abo,negatif,attente,examen et consultation,mauvaise expérience,hôpital saint-louis de la rochelle,Nouvelle-Aquitaine
+ChIJmZSh6qxTAUgRjXRIh4P5abo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital saint-louis de la rochelle,Nouvelle-Aquitaine
+ChIJmcX9IWiHD0gRWgUtwdKwuJQ,positif,professionnalisme,mauvaise expérience,personnel agréable et à l'écoute,centre médico-psychologique (cmp) pour adultes,Pays de la Loire
+ChIJmdzTUde8rBIRDZKH64oF0bQ,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier jean coulon,Occitanie
+ChIJmdzTUde8rBIRDZKH64oF0bQ,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier jean coulon,Occitanie
+ChIJmxyWWlolEkgRVlBCDH47abc,positif,prise en charge d'urgence 2,professionnalisme,personnel agréable et à l'écoute,centre de rééducation et de réadaptation fonctionnelles en milieu marin de trestel,Bretagne
+ChIJn-A1EQT8DkgRuat9zpFcN4o,positif,personnel agréable et à l'écoute,attente,locaux et accès,centre hospitalier de brocéliande - site de montfort-sur-meu,Bretagne
+ChIJn3FZwqZF8EcRWWN2TCaDqkc,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de l'agglomération de nevers,Bourgogne-Franche-Comté
+ChIJn3FZwqZF8EcRWWN2TCaDqkc,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de l'agglomération de nevers,Bourgogne-Franche-Comté
+ChIJnxDQmwK6qhIR8dhanCH-Q-E,negatif,mauvaise expérience,prise en charge d'urgence 1,attente,centre hospitalier,Nouvelle-Aquitaine
+ChIJnxDQmwK6qhIR8dhanCH-Q-E,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier,Nouvelle-Aquitaine
+ChIJnxnXBu1p2hIRb_xFxXKwPEg,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier notre-dame de la miséricorde,Corse
+ChIJnxnXBu1p2hIRb_xFxXKwPEg,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier notre-dame de la miséricorde,Corse
+ChIJo-bkfSjUVw0ROOsVKKcXzhI,negatif,attente,personnel agréable et à l'écoute,mauvaise expérience,centre hospitalier de lourdes,Occitanie
+ChIJo-bkfSjUVw0ROOsVKKcXzhI,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de lourdes,Occitanie
+ChIJo_40jvvttRIRE8-Q_Er1NJ0,negatif,professionnalisme,personnel désagréable,mauvaise expérience,centre hospitalier montfavet avignon,Provence-Alpes-Côte d'Azur
+ChIJo_40jvvttRIRE8-Q_Er1NJ0,positif,professionnalisme,locaux et accès,prise en charge d'urgence 1,centre hospitalier montfavet avignon,Provence-Alpes-Côte d'Azur
+ChIJod-2_gtlEUgRhO2LPqqM2K4,negatif,personnel désagréable,maternité,professionnalisme,centre de réhabilitation psychosociale roz ar scour,Bretagne
+ChIJofSAbcj88kcRGvQk6CdWq4E,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier chalon sur saône william morey,Bourgogne-Franche-Comté
+ChIJofSAbcj88kcRGvQk6CdWq4E,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier chalon sur saône william morey,Bourgogne-Franche-Comté
+ChIJowRejjHzEUgRXEy2I0YyOSk,negatif,personnel désagréable,mauvaise expérience,examen et consultation,cabinet privé de gastro-entérologie - centre hospitalier de guingamp,Bretagne
+ChIJowRejjHzEUgRXEy2I0YyOSk,positif,personnel agréable et à l'écoute,personnel désagréable,attente,cabinet privé de gastro-entérologie - centre hospitalier de guingamp,Bretagne
+ChIJox-5Lq0a70cRYhIpuASD3hw,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de sens,Bourgogne-Franche-Comté
+ChIJox-5Lq0a70cRYhIpuASD3hw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de sens,Bourgogne-Franche-Comté
+ChIJp0-9S9ybVA0RJg3geu51ahU,negatif,attente,examen et consultation,mauvaise expérience,pole sante,Nouvelle-Aquitaine
+ChIJp0-9S9ybVA0RJg3geu51ahU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,pole sante,Nouvelle-Aquitaine
+ChIJp1zjK4vfDkgRPPxaQjRdKbo,negatif,mauvaise expérience,personnel agréable et à l'écoute,prise en charge d'urgence 1,maternité - centre hospitalier privé saint-grégoire,Bretagne
+ChIJp1zjK4vfDkgRPPxaQjRdKbo,positif,maternité,personnel agréable et à l'écoute,professionnalisme,maternité - centre hospitalier privé saint-grégoire,Bretagne
+ChIJp25pzv5dEEgRdOOvkXO0-qU,negatif,professionnalisme,attente,prise en charge d'urgence 2,groupe hospitalier bretagne sud - riantec,Bretagne
+ChIJp25pzv5dEEgRdOOvkXO0-qU,positif,personnel agréable et à l'écoute,professionnalisme,attente,groupe hospitalier bretagne sud - riantec,Bretagne
+ChIJp4GZcffX-0cR4AN2w0Dz2aU,negatif,mauvaise expérience,prise en charge d'urgence 1,prise en charge d'urgence 2,centre hospitalier la valette,Nouvelle-Aquitaine
+ChIJp4RTfP2I_kcRUZ94ohnXQns,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de confolens,Nouvelle-Aquitaine
+ChIJp4RTfP2I_kcRUZ94ohnXQns,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,centre hospitalier de confolens,Nouvelle-Aquitaine
+ChIJp5GU6Q2e8kcRjn92NoLSWck,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier universitaire f.mitterrand dijon-bourgogne,Bourgogne-Franche-Comté
+ChIJp5GU6Q2e8kcRjn92NoLSWck,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire f.mitterrand dijon-bourgogne,Bourgogne-Franche-Comté
+ChIJp_6uMYlbEEgRDuHOSco5Rgs,negatif,professionnalisme,personnel désagréable,mauvaise expérience,centre de réadaptation et de gériatrie eudo de kerlivio - groupe hospitalier bretagne sud - hennebont,Bretagne
+ChIJp_6uMYlbEEgRDuHOSco5Rgs,positif,professionnalisme,personnel agréable et à l'écoute,maternité,centre de réadaptation et de gériatrie eudo de kerlivio - groupe hospitalier bretagne sud - hennebont,Bretagne
+ChIJpdfsdUMP9EcRn1EhGuKFfyY,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de roanne,Auvergne-Rhône-Alpes
+ChIJpdfsdUMP9EcRn1EhGuKFfyY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de roanne,Auvergne-Rhône-Alpes
+ChIJq0ymJYwji0cRPBWW3pGhERA,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,prise en charge d'urgence 1,hôpital local de la tour du pin,Auvergne-Rhône-Alpes
+ChIJq6o6JRecD0gRdjfE1frjezo,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier de redon service des urgences,Bretagne
+ChIJq6o6JRecD0gRdjfE1frjezo,positif,personnel agréable et à l'écoute,attente,prise en charge d'urgence 2,centre hospitalier de redon service des urgences,Bretagne
+ChIJq6qqqlPmEUgR6zmqeIu6_Hs,negatif,personnel désagréable,maternité,prise en charge d'urgence 1,centre hospitalier du penthièvre & du poudouvre,Bretagne
+ChIJq6qqqlPmEUgR6zmqeIu6_Hs,positif,mauvaise expérience,prise en charge d'urgence 2,professionnalisme,centre hospitalier du penthièvre & du poudouvre,Bretagne
+ChIJq6rWOtDNqBIR3u_omC-Jhsc,negatif,personnel agréable et à l'écoute,prise en charge d'urgence 2,mauvaise expérience,centre médico-psychologique adultes,Occitanie
+ChIJq6rWOtDNqBIR3u_omC-Jhsc,positif,prise en charge d'urgence 2,professionnalisme,attente,centre médico-psychologique adultes,Occitanie
+ChIJq7Yr3ub2B0gRHiz0N9Z38m4,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier de saumur,Pays de la Loire
+ChIJq7Yr3ub2B0gRHiz0N9Z38m4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de saumur,Pays de la Loire
+ChIJq84upCyCDkgRo2u4e4NcrM4,negatif,mauvaise expérience,examen et consultation,personnel désagréable,centre hospitalier saint-malo - chirurgie gynécologique,Bretagne
+ChIJq84upCyCDkgRo2u4e4NcrM4,positif,personnel agréable et à l'écoute,maternité,prise en charge d'urgence 2,centre hospitalier saint-malo - chirurgie gynécologique,Bretagne
+ChIJqRJ7DBqcD0gRSQFv7tKXNhk,negatif,prise en charge d'urgence 2,personnel agréable et à l'écoute,personnel désagréable,centre médico-psychologique (cmp),Bretagne
+ChIJqRJ7DBqcD0gRSQFv7tKXNhk,positif,attente,personnel désagréable,professionnalisme,centre médico-psychologique (cmp),Bretagne
+ChIJqTgpjEQk1xIRcED83dqi8QQ,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,attente,centre hospitalier bastia service des urgences,Corse
+ChIJqYtTC1k7qhIR3X0BhJdx-Oo,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier de condom,Occitanie
+ChIJqYtTC1k7qhIR3X0BhJdx-Oo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de condom,Occitanie
+ChIJqzea-OG7FkgRaUG5qJ9zfUY,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier régional universitaire morvan de brest,Bretagne
+ChIJqzea-OG7FkgRaUG5qJ9zfUY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier régional universitaire morvan de brest,Bretagne
+ChIJr37OmGks_UcRyGbTB1ucKm8,negatif,personnel désagréable,prise en charge d'urgence 1,mauvaise expérience,centre hospitalier,Centre-Val de Loire
+ChIJr37OmGks_UcRyGbTB1ucKm8,positif,professionnalisme,maternité,locaux et accès,centre hospitalier,Centre-Val de Loire
+ChIJr4hIhCWcD0gRPe38F30MvkU,positif,mauvaise expérience,personnel agréable et à l'écoute,professionnalisme,ctre hospitalier guillaume regnier,Bretagne
+ChIJrROK6QQk1xIR8JVdAis86sM,negatif,attente,mauvaise expérience,personnel agréable et à l'écoute,polyclinique maymard - bastia,Corse
+ChIJrROK6QQk1xIR8JVdAis86sM,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,polyclinique maymard - bastia,Corse
+ChIJrRZBWX1AUQ0R2GcklEiCawg,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier de la côte basque,Nouvelle-Aquitaine
+ChIJrRZBWX1AUQ0R2GcklEiCawg,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de la côte basque,Nouvelle-Aquitaine
+ChIJrWtQ48DazRIRZB-YIY1fetU,negatif,mauvaise expérience,attente,personnel désagréable,hôpital l'archet,Provence-Alpes-Côte d'Azur
+ChIJrWtQ48DazRIRZB-YIY1fetU,positif,personnel agréable et à l'écoute,maternité,professionnalisme,hôpital l'archet,Provence-Alpes-Côte d'Azur
+ChIJsRNPrIsRUQ0RlAhmDAadFYU,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier de la côté basque (site de saint-jean-de-luz udazkena),Nouvelle-Aquitaine
+ChIJsTHvW4y6rhIR2ubcCKuoWfo,negatif,mauvaise expérience,attente,examen et consultation,centre hospitalier universitaire vétérinaire,Occitanie
+ChIJsTHvW4y6rhIR2ubcCKuoWfo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire vétérinaire,Occitanie
+ChIJs_sW8m-7rhIRuTUQT4CqSiI,negatif,personnel désagréable,mauvaise expérience,attente,hôpital la grave,Occitanie
+ChIJs_sW8m-7rhIRuTUQT4CqSiI,positif,personnel agréable et à l'écoute,professionnalisme,examen et consultation,hôpital la grave,Occitanie
+ChIJsfos0s15BUgRfVMUxP08uvA,negatif,examen et consultation,maternité,prise en charge d'urgence 1,hôpital,Pays de la Loire
+ChIJswZX9FyiD0gRhaxvQBcQPCo,positif,personnel agréable et à l'écoute,maternité,professionnalisme,centre hospitalier de redon antenne de consultations de psychiatrie (antenne de consultations de psychiatrie),Bretagne
+ChIJsxzoh1jMEUgRIjpnDA2JSmo,negatif,examen et consultation,attente,prise en charge d'urgence 1,centre hospitalier du centre-bretagne,Bretagne
+ChIJsxzoh1jMEUgRIjpnDA2JSmo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier du centre-bretagne,Bretagne
+ChIJt0l092zSAUgR3hL2dSPRdpY,negatif,attente,examen et consultation,personnel désagréable,centre hospitalier de la haute gironde,Nouvelle-Aquitaine
+ChIJt0l092zSAUgR3hL2dSPRdpY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de la haute gironde,Nouvelle-Aquitaine
+ChIJt64-dOrVEEgRW35VV-BIOEU,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier de cornouaille,Bretagne
+ChIJt64-dOrVEEgRW35VV-BIOEU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de cornouaille,Bretagne
+ChIJt72tf_PD0BIRniHG8RfvRIk,negatif,mauvaise expérience,attente,personnel désagréable,centre médico psychologique,Corse
+ChIJtVzj56-CqRIRJGctkD_24KM,negatif,mauvaise expérience,personnel agréable et à l'écoute,professionnalisme,centre hospitalier spécialisé du gers,Occitanie
+ChIJtVzj56-CqRIRJGctkD_24KM,positif,personnel agréable et à l'écoute,personnel désagréable,professionnalisme,centre hospitalier spécialisé du gers,Occitanie
+ChIJtXIQP-oZ-EcRCd8CK9Ly3TU,negatif,attente,personnel désagréable,professionnalisme,centre hospitalier de mauriac,Auvergne-Rhône-Alpes
+ChIJtXIQP-oZ-EcRCd8CK9Ly3TU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de mauriac,Auvergne-Rhône-Alpes
+ChIJtXcOWV9IVg0R7YHqsVtZvg4,negatif,mauvaise expérience,prise en charge d'urgence 1,professionnalisme,centre hospitalier des pyrénées,Nouvelle-Aquitaine
+ChIJtXcOWV9IVg0R7YHqsVtZvg4,positif,personnel agréable et à l'écoute,locaux et accès,professionnalisme,centre hospitalier des pyrénées,Nouvelle-Aquitaine
+ChIJtYQ6LuWA70cRxOtCGEHMq3s,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de l'agglomération montargoise,Centre-Val de Loire
+ChIJtYQ6LuWA70cRxOtCGEHMq3s,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de l'agglomération montargoise,Centre-Val de Loire
+ChIJtYrgiQCO-EcRKXD9f4VubPE,negatif,professionnalisme,examen et consultation,prise en charge d'urgence 1,centre hospitalier gériatrique,Nouvelle-Aquitaine
+ChIJtYrgiQCO-EcRKXD9f4VubPE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,personnel désagréable,centre hospitalier gériatrique,Nouvelle-Aquitaine
+ChIJu1kW7u7XjEcRrEh8vf-CRRk,negatif,mauvaise expérience,examen et consultation,attente,centre hospitalier jura sud,Bourgogne-Franche-Comté
+ChIJu1kW7u7XjEcRrEh8vf-CRRk,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier jura sud,Bourgogne-Franche-Comté
+ChIJu3fHddbQFkgRuINw1ugpkwo,negatif,mauvaise expérience,professionnalisme,attente,centre hospitalier michel mazéas,Bretagne
+ChIJu3fHddbQFkgRuINw1ugpkwo,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,centre hospitalier michel mazéas,Bretagne
+ChIJu5GII3NMqBIR0S-Q7K4VE3c,negatif,examen et consultation,mauvaise expérience,attente,centre hospitalier de lannemezan,Occitanie
+ChIJu5GII3NMqBIR0S-Q7K4VE3c,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier de lannemezan,Occitanie
+ChIJu9p3WpY7shIRO_UMkQD5Q-8,negatif,attente,personnel désagréable,maternité,centre hospitalier emile borel,Occitanie
+ChIJu9p3WpY7shIRO_UMkQD5Q-8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier emile borel,Occitanie
+ChIJuRGbL-kRrhIRFdeRXOy0e8Y,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier intercommunal castres-mazamet,Occitanie
+ChIJuRGbL-kRrhIRFdeRXOy0e8Y,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier intercommunal castres-mazamet,Occitanie
+ChIJuTn2oJL65EcR9EsN4kC__v4,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier régional d'orléans hôpital de la source,Centre-Val de Loire
+ChIJuTn2oJL65EcR9EsN4kC__v4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier régional d'orléans hôpital de la source,Centre-Val de Loire
+ChIJuU4qS4plBUgRQB33cvlLI1w,negatif,attente,prise en charge d'urgence 2,examen et consultation,centre hospitalier saint nazaire,Pays de la Loire
+ChIJuU4qS4plBUgRQB33cvlLI1w,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier saint nazaire,Pays de la Loire
+ChIJuVUhjty7rhIR2GnS2Bbnj6o,negatif,professionnalisme,mauvaise expérience,personnel désagréable,centre hospitalier gérard marchant - hôpital marchant,Occitanie
+ChIJuVUhjty7rhIR2GnS2Bbnj6o,positif,personnel agréable et à l'écoute,attente,personnel désagréable,centre hospitalier gérard marchant - hôpital marchant,Occitanie
+ChIJueNS2y1H9EcRB1OP9bCGOKY,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier du forez - site de feurs,Auvergne-Rhône-Alpes
+ChIJueNS2y1H9EcRB1OP9bCGOKY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier du forez - site de feurs,Auvergne-Rhône-Alpes
+ChIJufZCgAH79UcRk2MpuInkdf4,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier emile roux,Auvergne-Rhône-Alpes
+ChIJufZCgAH79UcRk2MpuInkdf4,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier emile roux,Auvergne-Rhône-Alpes
+ChIJuflF5YHU5UcRTkszY7sNAo8,negatif,personnel désagréable,mauvaise expérience,prise en charge d'urgence 1,centre hospitalier de bligny,Île-de-France
+ChIJuflF5YHU5UcRTkszY7sNAo8,positif,professionnalisme,personnel agréable et à l'écoute,prise en charge d'urgence 2,centre hospitalier de bligny,Île-de-France
+ChIJuw8NRPc-1xIR1K2VdyLgh0c,negatif,prise en charge d'urgence 1,professionnalisme,maternité,ehpad de porto-vecchio (centre hospitalier de bonifachio),Corse
+ChIJuwLSdG6zFkgRs94i4mC5_Do,negatif,mauvaise expérience,attente,prise en charge d'urgence 2,centre hospitalier ferdinand grall,Bretagne
+ChIJuyju47ojEkgRKTE8-KMaku8,negatif,personnel désagréable,locaux et accès,mauvaise expérience,centre hospitalier de treguier,Bretagne
+ChIJuyju47ojEkgRKTE8-KMaku8,positif,personnel agréable et à l'écoute,locaux et accès,attente,centre hospitalier de treguier,Bretagne
+ChIJv5bysMuXFkgRI8Ns9Y3a6MU,negatif,professionnalisme,attente,prise en charge d'urgence 1,centre hospitalier le jeune,Bretagne
+ChIJv5bysMuXFkgRI8Ns9Y3a6MU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier le jeune,Bretagne
+ChIJv96kbCbeDkgRREJ_RMbuuf8,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier universitaire de pontchaillou,Bretagne
+ChIJv96kbCbeDkgRREJ_RMbuuf8,positif,personnel agréable et à l'écoute,professionnalisme,prise en charge d'urgence 2,centre hospitalier universitaire de pontchaillou,Bretagne
+ChIJvVhCDfpurRIRkB5bJt7P4yM,negatif,prise en charge d'urgence 1,personnel désagréable,prise en charge d'urgence 2,centre hospitalier pierre delpech,Occitanie
+ChIJvVhCDfpurRIRkB5bJt7P4yM,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,prise en charge d'urgence 1,centre hospitalier pierre delpech,Occitanie
+ChIJvW4NyUOBDkgRKUzIf-_zDL8,negatif,mauvaise expérience,attente,personnel désagréable,"centre hospitalier de saint malo, service des urgences",Bretagne
+ChIJvW4NyUOBDkgRKUzIf-_zDL8,positif,prise en charge d'urgence 2,maternité,attente,"centre hospitalier de saint malo, service des urgences",Bretagne
+ChIJvw_qNIgeEEgRdBBsWSvpo5E,negatif,attente,examen et consultation,prise en charge d'urgence 2,hôpital chubert,Bretagne
+ChIJvw_qNIgeEEgRdBBsWSvpo5E,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,hôpital chubert,Bretagne
+ChIJw2cQ_NBIVg0RmvDqIqk47lU,negatif,mauvaise expérience,prise en charge d'urgence 1,professionnalisme,centre hospitalier des pyrénées-pau psychiatrie,Nouvelle-Aquitaine
+ChIJw2cQ_NBIVg0RmvDqIqk47lU,positif,prise en charge d'urgence 2,professionnalisme,locaux et accès,centre hospitalier des pyrénées-pau psychiatrie,Nouvelle-Aquitaine
+ChIJw2qDVGIbi0cRUFVf5SOmXFQ,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier yves touraine,Auvergne-Rhône-Alpes
+ChIJw2qDVGIbi0cRUFVf5SOmXFQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier yves touraine,Auvergne-Rhône-Alpes
+ChIJwQEH0ILQqhIR_RtWRXr5Taw,negatif,attente,examen et consultation,prise en charge d'urgence 2,centre hospitalier de bergerac service des urgences,Nouvelle-Aquitaine
+ChIJwQEH0ILQqhIR_RtWRXr5Taw,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,professionnalisme,centre hospitalier de bergerac service des urgences,Nouvelle-Aquitaine
+ChIJwSEkc5GM-EcRhzD-gQpJhZ8,negatif,examen et consultation,attente,mauvaise expérience,centre hospitalier de tulle,Nouvelle-Aquitaine
+ChIJwSEkc5GM-EcRhzD-gQpJhZ8,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,maternité,centre hospitalier de tulle,Nouvelle-Aquitaine
+ChIJwbRjNRDzEUgR7j-fPrOaVHQ,negatif,examen et consultation,personnel désagréable,mauvaise expérience,centre de sante armor argoat medecins generalistes,Bretagne
+ChIJwbRjNRDzEUgR7j-fPrOaVHQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,centre de sante armor argoat medecins generalistes,Bretagne
+ChIJx90rkqtfEEgRFhIlUXo80QU,negatif,locaux et accès,mauvaise expérience,personnel agréable et à l'écoute,hôpital du scorff - groupe hospitalier bretagne sud - lorient,Bretagne
+ChIJx90rkqtfEEgRFhIlUXo80QU,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,hôpital du scorff - groupe hospitalier bretagne sud - lorient,Bretagne
+ChIJxVN7jrpx_0cRFbByRvmD9Ro,negatif,attente,mauvaise expérience,personnel désagréable,centre hospitalier de périgueux,Nouvelle-Aquitaine
+ChIJxVN7jrpx_0cRFbByRvmD9Ro,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de périgueux,Nouvelle-Aquitaine
+ChIJxcS5WVes9UcRQZ-OZpR9yPQ,negatif,mauvaise expérience,examen et consultation,prise en charge d'urgence 1,centre hospitalier universitaire de saint-étienne,Auvergne-Rhône-Alpes
+ChIJxcS5WVes9UcRQZ-OZpR9yPQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier universitaire de saint-étienne,Auvergne-Rhône-Alpes
+ChIJxckDZC0Ti0cR3Qt2y8QC7hs,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier bugey sud,Auvergne-Rhône-Alpes
+ChIJxckDZC0Ti0cR3Qt2y8QC7hs,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier bugey sud,Auvergne-Rhône-Alpes
+ChIJxeppS_ky-EcR6Z_RmT41RkE,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier d'ussel,Nouvelle-Aquitaine
+ChIJxeppS_ky-EcR6Z_RmT41RkE,positif,personnel agréable et à l'écoute,prise en charge d'urgence 1,attente,centre hospitalier d'ussel,Nouvelle-Aquitaine
+ChIJxyv-2bhY-EcRQZdGZAwobxc,negatif,mauvaise expérience,attente,personnel désagréable,centre hospitalier de brive,Nouvelle-Aquitaine
+ChIJxyv-2bhY-EcRQZdGZAwobxc,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de brive,Nouvelle-Aquitaine
+ChIJy0DiATvzEUgRSxsGhVggz0c,negatif,attente,mauvaise expérience,prise en charge d'urgence 1,polyclinique du pays de rance 22100 dinan,Bretagne
+ChIJy0DiATvzEUgRSxsGhVggz0c,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,attente,polyclinique du pays de rance 22100 dinan,Bretagne
+ChIJy2WGaVJusBIRoDaR0TpmZDA,negatif,attente,mauvaise expérience,examen et consultation,centre hospitalier de perpignan,Occitanie
+ChIJy2WGaVJusBIRoDaR0TpmZDA,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de perpignan,Occitanie
+ChIJy5rg3G4b9UcRhSCv3Tw_GG0,negatif,mauvaise expérience,prise en charge d'urgence 1,attente,hopital local de pelussin,Auvergne-Rhône-Alpes
+ChIJy5rg3G4b9UcRhSCv3Tw_GG0,positif,prise en charge d'urgence 2,locaux et accès,personnel désagréable,hopital local de pelussin,Auvergne-Rhône-Alpes
+ChIJy8kEFCyHrhIRvNW2vujwJr4,negatif,prise en charge d'urgence 1,mauvaise expérience,maternité,centre hospitalier philippe pinel,Occitanie
+ChIJy9GO5massRIRyhBE7f6SBFY,negatif,attente,examen et consultation,mauvaise expérience,centre hospitalier de narbonne,Occitanie
+ChIJy9GO5massRIRyhBE7f6SBFY,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier de narbonne,Occitanie
+ChIJy_zZDj8WyhIRzIf8zNUMjCQ,negatif,attente,personnel désagréable,examen et consultation,centre hospitalier d'apt,Provence-Alpes-Côte d'Azur
+ChIJy_zZDj8WyhIRzIf8zNUMjCQ,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier d'apt,Provence-Alpes-Côte d'Azur
+ChIJyw6MHaDyjEcRBxoriJjlYDw,negatif,attente,personnel désagréable,mauvaise expérience,centre hospitalier louis jaillon de saint claude,Bourgogne-Franche-Comté
+ChIJyw6MHaDyjEcRBxoriJjlYDw,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,professionnalisme,centre hospitalier louis jaillon de saint claude,Bourgogne-Franche-Comté
+ChIJz5DqhAUdDkgRMrPlpdzPi1I,negatif,mauvaise expérience,attente,personnel désagréable,efs – maison du don – saint brieuc,Bretagne
+ChIJz5DqhAUdDkgRMrPlpdzPi1I,positif,personnel agréable et à l'écoute,prise en charge d'urgence 2,personnel désagréable,efs – maison du don – saint brieuc,Bretagne
+ChIJzyELwhWKDkgR7z40ZmYcM9c,negatif,attente,examen et consultation,prise en charge d'urgence 1,centre hospitalier général rené pleven,Bretagne
+ChIJzyELwhWKDkgR7z40ZmYcM9c,positif,prise en charge d'urgence 2,personnel agréable et à l'écoute,maternité,centre hospitalier général rené pleven,Bretagne
+ChIJzybplaCM-EcRwdZK56xfuyQ,positif,professionnalisme,prise en charge d'urgence 2,personnel agréable et à l'écoute,"centre hospitalier de tulle, service des urgences",Nouvelle-Aquitaine
